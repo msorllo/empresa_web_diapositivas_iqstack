@@ -84,6 +84,23 @@ Para agilizar el testeo de los diferentes roles, puedes usar los botones de **"A
 
 ---
 
+## 📽️ Presentación Interactiva 3D (TFG)
+
+En la carpeta [PRESENTACIÓN](file:///c:/Users/msorl/Desktop/PROYECTOS%20PC/IQSTACK/PRESENTACI%C3%93N) se encuentra la web oficial de presentación del proyecto IQSTACK para su defensa académica.
+
+### Características de la Presentación:
+*   **Diseño de Pantalla Dividida (Split Screen)**: Visualización unificada que muestra en paralelo:
+    *   **💻 Canal Comercial/Web (Izquierda)**: Elementos visuales como el **cubo 3D de servidor** girable por arrastre, **simulador ecológico** interactivo de visitas (kWh, CO₂ evitado, árboles plantados) y el **diagrama dinámico de flujo solar**.
+    *   **🎓 Canal Académico/TFG (Derecha)**: Información académica estructurada del proyecto de fin de ciclo formativo (Metodología Scrum/Kanban, matrices PESTEL y Porter con mitigación, alineación ODS, **tabla de tesorería mensual de 12 meses** y hitos legales para la constitución de la S.L.).
+*   **Topología de Red Interactiva**: Incorporación del diagrama draw.io original del proyecto con un modal zoomable al hacer clic.
+*   **Notas del Presentador Sincronizadas**: Un panel inferior desplegable con el discurso oral (speech) exacto redactado para el ponente en cada diapositiva.
+*   **Navegación Fluida**: Soporte completo para teclas de flecha (`Flecha Derecha`/`Flecha Izquierda`), barra espaciadora, swipes táctiles en dispositivos móviles y dots interactivos.
+
+Para visualizar la presentación, simplemente haz doble clic en:
+👉 **[PRESENTACIÓN/index.html](file:///c:/Users/msorl/Desktop/PROYECTOS%20PC/IQSTACK/PRESENTACI%C3%93N/index.html)**
+
+---
+
 ## 📦 Notas de Distribución
 
 Este proyecto ha sido preparado para una distribución limpia y profesional:

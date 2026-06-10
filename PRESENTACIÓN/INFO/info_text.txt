@@ -1,0 +1,3962 @@
+--- IQ STACK.pdf ---
+IQ STACK
+Hosting Ecológico y Soluciones Digitales 
+Sostenibles.
+Equipo Promotor:
+Unai Arnau CEO
+Marco Sorlí CTO
+Hugo Matías CMO
+Andrei Chivu CFO
+▹
+▹
+▹
+▹Idea de Negocio y Misión
+El Problema
+La Solución IQ STACK
+PYMES sin tiempo ni conocimientos técnicos.
+Soporte robotizado Bots en grandes hostings.
+Alta contaminación de los Centros de Datos 
+tradicionales.
+Energía Renovable Placas Solares).
+Trato Humano Cero Bots).
+Acompañamiento en la digitalización.
+▹
+▹
+▹
+▹
+▹
+▹El Equipo Promotor
+Unai CEO Visión estratégica, Linux y DevOps.
+Marco CTO Inteligencia Artificial y Desarrollo Python.
+Hugo Marketing): Ciberseguridad y Estrategia de Ventas.
+Andrei Finanzas): Gestión económica y Recursos.
+Valor Diferencial: Perfiles técnicos complementarios + 
+Nativos digitales. Expertos en la infomatica.
+▹
+▹
+▹
+▹
+Análisis PESTEL
+Político
+Pacto Verde Europeo  y 
+Ayudas "Kit Digital".
+Económico
+Crecimiento del mercado 
+Cloud 10% anual)
+Para 2027 17000$ M de 
+valor de mercado.
+Social
+Aumento de la 
+"Conciencia Verde" en 
+consumidores.
+Tecnológico
+Alta demanda de 
+ciberseguridad y servicios 
+en la nube.
+Análisis Competitivo (Porter)
+Dinámicas de Mercado Barreras y Proveedores
+Rivalidad Alta Competencia con gigantes Ionos, GoDaddy) 
+por precio.
+Estrategia: Océano Azul,GreemGeeks Nicho: Verde + Soporte 
+Humano).
+Poder de Clientes: Alto Buscan facilidad y migran rápido).
+Amenaza Nuevos Competidores: Media Barreras 
+técnicas y de inversión).
+Proveedores: Dependencia Media-Alta Hardware y Red 
+eléctrica, ISP.
+▹
+▹
+▹
+▹
+▹Análisis DAFO
+Interno (Fortalezas/Debilidades)
+Fortalezas:
+Debilidades:
+Externo (Oportunidades/Amenazas)
+Oportunidades:
+Amenazas:
+Infraestructura propia Energía renovable).
+Costes operativos bajos Equipo técnico fundador).
+Agilidad Metodología Scrum).
+Somos una marca nueva/desconocida.
+Recursos financieros limitados Estudiantes).
+Demanda de "Green Hosting".
+Digitalización obligatoria de PYMES.
+Guerra de precios de multinacionales.
+Ciberataques.
+▹
+▹
+▹
+▹
+▹
+▹
+▹
+▹
+▹Nuestra Solución (Niveles de Producto) 
+¿Que vendemos exactamente?
+Nivel Básico
+Presencia digital funcional y rápida.
+Nivel Formal
+Hosting + Dominio propio + 
+Certificado SSL.
+Diferencial: Panel con métricas de 
+ahorro de CO2.
+Nivel Aumentado
+Formación Digital incluida + Auditorías 
+de seguridad periódicas.
+Te enseñamos a usarlo.
+Evidencias del Prototipo
+Diseño Eco-Design: Minimalista para menor 
+consumo de datos y energía.
+Dashboard Cliente: Gráfico visible de la Energía 
+Solar Generada y ahorro de emisiones.
+Concepto UX Interfaz extremadamente sencilla 
+pensada para usuarios no técnicos.
+Metodología de Trabajo
+Roles & Proceso
+Product Owner: Unai Voz del cliente).
+Dev Team: Marco, Hugo, Andrei.
+Proceso: Sprints de 2 semanas.
+▹
+▹
+▹Infraestructura Verde
+Flujo de Energía
+ Sol ➝ Placas ➝ Baterías ➝ Servidores
+Curiosidad: Internet contamina tanto como la 
+industria de la aviación.
+Hardware: Servidores reacondicionados 
+Economía Circular) y bajo consumo.
+Software: Linux Open Source) + 
+Optimización de caché.
+▹
+▹Soporte: "Personas, no Bots" 
+Curiosidad: El 80% valora el trato humano por encima del precio.
+❌
+ Competencia ✅
+ IQ STACK
+Sistema de Tickets lento.
+Chatbots que no se entienden y frustrantes.
+"Pulse 1 para..."
+Chat directo con técnicos reales.
+Videollamada mensual de seguimiento.
+Trato cercano y humano.
+▹
+▹
+▹
+▹
+▹
+▹Cultura y Valores
+"Democratizar la tecnología sin dañar el planeta"
+Sostenibilidad
+ADN del proyecto.
+Transparencia
+Comunicación 
+clara.
+Cercania y Inclusión
+Ayuda y colaboración a 
+ONGs y estudiantes.
+Investigación de Mercado
+Conclusiones
+Preferencia: 80% prefiere trato humano.
+Hosting Verde: Alta disposición al cambio si el 
+precio es similar.
+Validación: Hipótesis validada por el mercado local.
+▹
+▹
+▹Público Objetivo
+1. PYMES Locales
+Gestorías, tiendas.
+Buscan: 
+Simplicidad.
+2. Startups
+Sector tecnológico.
+Buscan: Valores y 
+escalabilidad.
+3. ONGs
+Asociaciones.
+Buscan: Precio justo y 
+compromiso social.
+Estrategia de Precio
+Estrategia: "Valor por encima de coste bajo".
+Característica Competencia Low-Cost IQ STACK
+Precio Gancho (subidas sorpresa) Transparente (sin sorpresas)
+Energía Sucia / Mix eléctrico 100% Verde
+Soporte Tickets / Bots Videollamada IncluidaDistribución y Promoción
+Canal: 100% Online Directo Sin intermediarios).
+Atracción
+Blog educativo + Redes
+Conversión
+Web optimizada
+Fidelización
+Reportes de Huella de CarbonoEstrategia Digital
+SEM (Google Ads)
+Presupuesto: 3.600€/año.
+Objetivo: Captación rápida en búsquedas de intención de 
+compra.
+Keywords: "Hosting Ecológico", "Servidores Solares".
+SEO & Métricas
+SEO Posicionamiento orgánico a largo plazo Blog 
+educativo).
+Métrica Clave:
+CAC  LTV
+Coste Adquisición < Valor Vida Cliente)
+Presupuesto: Primer año unos 5000€.Redes Sociales
+Canales
+Metodología
+Marketing Agile Sprints de 2 semanas).
+LinkedIn: B2B Pymes y Gerentes).
+TikTok/Instagram: Marca empleadora y 
+concienciación Jóvenes/Estudiantes).
+▹
+▹Forma Jurídica
+Sociedad Limitada (S.L.)
+Socios: 4 Unai, Marco, Hugo, 
+Andrei).
+Capital Social: 4.000 € 1.000 
+€/socio).
+Ventajas & Estado
+Ventaja: Responsabilidad limitada al capital 
+aportado Protección patrimonio personal).
+Estado: Hoja de ruta definida Nombre ➝ 
+Notario ➝ NIF.Plan de Inversiones
+🖥
+ 60% Hardware y Energía
+⚖
+ 15% Legal
+📢
+ 15% Marketing
+🛡
+ 10% Fondo Maniobra
+▹
+▹
+▹
+▹Financiación
+0% Deuda Bancaria
+Independencia financiera absoluta.Previsión (Punto Muerto)
+Datos Año 1
+Mes 6 Break 
+Even)
+Ingresos: 12.000 €
+Gastos: 4.500 €
+Beneficio Neto: 5.000 €
+Conclusión: Viabilidad demostrada en el primer ejercicio.
+▹
+▹
+▹Balance de Situación
+Solvencia: Alta | Endeudamiento: Nulo
+ACTIVO
+Tesorería Caja
++
+Equipos informáticos
+PASIVO
+0 
+€
+Deudas a largo plazo
+PATRIMONIO NETO
+Capital 
+Social
++
+Beneficios no distribuidosIQ STACK
+"Tecnología que funciona, valores que 
+importan."
+Sostenible
+ Rentable
+ Humano
+
+--- TFG .pdf ---
+IQSTACK  _________________________________________________________________________  
+ 1.  RESUMEN  EJECUTIVO ...................................................................................................... 3 2.  IDEA  DE  NEGOCIO ............................................................................................................. 4 2.1.  ¿De  dónde  sale  IQSTACK? ........................................................................................ 4 2.2.  El  Equipo  Promotor ..................................................................................................... 4 2.3.  Nuestros  Objetivos ...................................................................................................... 5 2.4.  Metodología  de  Trabajo:  Scrum ..................................................................................... 5 2.5.  Detalle  Operativo  de  la  Metodología  (Ceremonias  y  Artefactos) ................................ 6 3.  ANÁLISIS  DEL  ENTORNO ................................................................................................. 7 3.1.  Factores  Políticos  y  Legales ....................................................................................... 7 3.2.  Factores  Económicos .................................................................................................. 7 3.3.  Factores  Socioculturales  y  Tecnológicos .................................................................... 7 3.4.  Factores  Ecológicos .................................................................................................... 7 3.6.  Análisis  de  la  Competencia  (Porter) ............................................................................ 8 3.7.  Análisis  DAFO ................................................................................................................. 9 3.8.  Análisis  del  Entorno  Competitivo  (Las  5  Fuerzas  de  Porter) ....................................... 9 3.9.  Alineación  con  los  ODS  (Agenda  2030) .................................................................... 10 4.  ESTRUCTURA  ORGANIZATIVA  DE  LA  EMPRESA ........................................................ 10 4.1.  Organigrama  Funcional ............................................................................................. 10 4.2.  Cultura  Empresarial  y  Valores ................................................................................... 11 4.3.  Política  de  Recursos  Humanos  (RR.HH.) ................................................................. 11 5.  DEFINICIÓN  DEL  MERCADO ........................................................................................... 11 6.  IDENTIFICACIÓN  Y  ELECCIÓN  DEL  CLIENTE ............................................................... 11 6.1.  Segmentación  de  Clientes ........................................................................................ 12 6.2.  Estrategia  de  Posicionamiento .................................................................................. 12 7.  PROGRAMA  OPERATIVO  (MARKETING  MIX) ............................................................... 12 7.1.  Producto .................................................................................................................... 12 Ofrecemos  más  que  un  espacio  en  un  disco  duro.  Nuestro  servicio  incluye: .................. 12 7.2.  Precio ........................................................................................................................ 12 Usamos  una  estrategia  de  penetración.  Entramos  con  precios  competitivos  para  captar  a  los  primeros  clientes,  pero  sin  tirarlos  por  los  suelos,  porque  nuestro  soporte  tiene  valor. .12 7.3.  Distribución ................................................................................................................ 13 Es  un  canal  directo  online.  Todo  se  hace  a  través  de  nuestra  web  www.iqstack.com  (ejemplo).  No  usamos  intermediarios.  El  cliente  entra,  elige  su  plan  y  lo  activa  al  instante.  Al  ser  un  servicio  digital,  no  tenemos  costes  de  transporte  ni  logística  física. .. 13 7.4.  Comunicación ............................................................................................................ 13 Como  tenemos  poco  presupuesto,  usamos  el  metodo  (Marketing  de  Guerrilla  y  Digital): ..13 7.5.  ESTRATEGIA  DE  MARKETING  DIGITAL  (Detalle) .................................................. 13 8.  PLAN  ECONÓMICO-FINANCIERO .................................................................................. 14 8.1.  Plan  de  Inversiones  y  Gastos  Iniciales ...................................................................... 14 8.2.  Plan  de  Financiación  (¿De  dónde  sale  el  dinero?) ................................................... 14 8.3.  Previsión  de  Ingresos  y  Gastos  (Cuenta  de  Resultados) .......................................... 15 
+_________________________________________________________________________Pág  1  IQSTACK  _________________________________________________________________________  
+8.4.  Punto  Muerto  (Umbral  de  Rentabilidad) .................................................................... 15 8.5.  Balance  de  Situación  Previsional  (Año  1) ................................................................. 17 9.  FORMA  JURÍDICA  Y  PUESTA  EN  MARCHA .................................................................. 18 9.1.  Elección  de  la  Forma  Jurídica ................................................................................... 18 9.2.  Trámites  de  Constitución  (La  Burocracia) ................................................................. 18 9.3.  Plan  de  Tesorería  y  Gestión  de  Caja ......................................................................... 18 10.  CONCLUSIONES ............................................................................................................ 20 
+ 
+1.  RESUMEN  EJECUTIVO  
+IQSTACK  es  un  proyecto  empresarial  nacido  en  Benicarló  (Castellón)  de  la  mano  de  cuatro  
+técnicos
+ 
+en
+ 
+Sistemas
+ 
+Microinformáticos
+ 
+y
+ 
+Redes:
+ 
+Unai,
+ 
+Marco,
+ 
+Hugo
+ 
+y
+ 
+Andrei.
+ 
+Nuestra
+ 
+misión
+ 
+es
+ 
+clara:
+ 
+ofrecer
+ 
+servicios
+ 
+de
+ 
+hosting
+ 
+web
+ 
+y
+ 
+almacenamiento
+ 
+en
+ 
+la
+ 
+nube
+ 
+(
+cloud
+ 
+computing
+)
+ 
+diseñados
+ 
+específicamente
+ 
+para
+ 
+quienes
+ 
+suelen
+ 
+quedarse
+ 
+fuera
+ 
+de
+ 
+la
+ 
+digitalización:
+ 
+pequeñas
+ 
+empresas,
+ 
+startups
+ 
+locales
+ 
+y
+ 
+ONGs.
+ 
+Lo  que  nos  hace  diferentes  a  los  gigantes  del  sector  no  es  el  tamaño,  sino  nuestros  valores.  
+Nuestra
+ 
+propuesta
+ 
+se
+ 
+basa
+ 
+en
+ 
+tres
+ 
+puntos
+ 
+clave:
+ 
+1.  Sostenibilidad  real:  No  solo  lo  decimos,  lo  hacemos.  Nuestros  servidores  funcionan  
+con
+ 
+energía
+ 
+renovable
+ 
+para
+ 
+reducir
+ 
+la
+ 
+"huella
+ 
+de
+ 
+carbono
+ 
+digital".
+ 2.  Trato  humano:  Odiamos  hablar  con  robots,  y  a  nuestros  clientes  les  pasa  lo  mismo.  
+Ofrecemos
+ 
+un
+ 
+soporte
+ 
+técnico
+ 
+donde
+ 
+te
+ 
+atiende
+ 
+una
+ 
+persona,
+ 
+no
+ 
+un
+ 
+bot
+,
+ 
+ayudando
+ 
+a
+ 
+usuarios
+ 
+sin
+ 
+conocimientos
+ 
+técnicos
+ 
+a
+ 
+perder
+ 
+el
+ 
+miedo
+ 
+a
+ 
+la
+ 
+nube.
+ 3.  Impacto  social:  Queremos  devolver  a  la  comunidad  parte  de  lo  que  ganamos,  
+colaborando
+ 
+con
+ 
+entidades
+ 
+sociales
+ 
+y
+ 
+facilitando
+ 
+su
+ 
+acceso
+ 
+a
+ 
+la
+ 
+tecnología.
+ 
+Jurídicаmente,  nos  constituimos  como  unа Sociedad  Limitada  (S.L.)  con  un  capitаl  inicial  
+de
+ 
+4.000
+ 
+€
+ 
+que
+ 
+aportamos
+ 
+nosotros
+ 
+mismos.
+ 
+Para
+ 
+trabajar,
+ 
+huimos
+ 
+de
+ 
+la
+ 
+burocracia
+ 
+lenta
+ 
+y
+ 
+usаmos  la  metodologíа Scrum ,  que  nos  permite  ser  rápidos  y  adaptarnos  a  los  cambios  sin  
+gastar
+ 
+dinero
+ 
+de
+ 
+más.
+ 
+Los  números  nos  respaldan:  nuestro  plan  financiero,  aunque  prudente,  muestra  que  el  
+proyecto
+ 
+es
+ 
+viable.
+ 
+Prevemos
+ 
+cubrir
+ 
+gastos
+ 
+(llegar
+ 
+al
+ 
+punto
+ 
+muerto
+)
+ 
+dentro
+ 
+del
+ 
+primer
+ 
+año
+ 
+y
+ 
+cerrar
+ 
+el
+ 
+ejercicio
+ 
+con
+ 
+beneficios,
+ 
+demostrando
+ 
+que
+ 
+se
+ 
+puede
+ 
+ser
+ 
+rentable
+ 
+y
+ 
+ecológico
+ 
+al
+ 
+mismo
+ 
+tiempo.
+ 
+ 
+_________________________________________________________________________Pág  2  IQSTACK  _________________________________________________________________________  
+ 
+●  Logo  de  IQSTACK:  Ponlo  centrado  o  en  la  esquina  superior  derecha,  que  se  vea  
+bien
+ 
+grande
+ 
+y
+ 
+limpio.
+ 
+           
+2.  IDEA  DE  NEGOCIO  
+2.1.  ¿De  dónde  sale  IQSTACK?  
+La  idea  surgió  en  clase.  Nos  dimos  cuenta  de  que,  aunque  todo  el  mundo  dice  que  "hay  que  
+digitalizarse",
+ 
+para
+ 
+una
+ 
+pequeña
+ 
+tienda
+ 
+de
+ 
+barrio
+ 
+o
+ 
+una
+ 
+asociación
+ 
+local,
+ 
+contratar
+ 
+un
+ 
+servidor
+ 
+web
+ 
+es
+ 
+un
+ 
+lío:
+ 
+paneles
+ 
+de
+ 
+control
+ 
+complicados,
+ 
+soporte
+ 
+en
+ 
+inglés
+ 
+o
+ 
+precios
+ 
+que
+ 
+suben
+ 
+sin
+ 
+aviso.
+ 
+Además,
+ 
+vimos
+ 
+que
+ 
+la
+ 
+tecnología
+ 
+contamina
+ 
+mucho
+ 
+más
+ 
+de
+ 
+lo
+ 
+que
+ 
+la
+ 
+gente
+ 
+cree.
+ 
+Así  nació  IQSTACK :  un  hosting  que  te  lo  pone  fácil  y  que,  además,  cuida  el  planeta.  
+Queremos
+ 
+ser
+ 
+el
+ 
+departamento
+ 
+informático
+ 
+externo
+ 
+de
+ 
+nuestros
+ 
+clientes,
+ 
+encargándonos
+ 
+de
+ 
+la
+ 
+parte
+ 
+técnica
+ 
+para
+ 
+que
+ 
+ellos
+ 
+se
+ 
+dediquen
+ 
+a
+ 
+su
+ 
+negocio.
+ 
+2.2.  El  Equipo  Promotor  
+Somos  cuatro  perfiles  muy  distintos  pero  que  encajamos  perfectamente  para  este  proyecto:  
+●  Unai  Arnau  (CEO):  Es  quien  tiene  la  visión  global.  Le  apasionan  los  sistemas  
+operativos
+ 
+y
+ 
+dirigir
+ 
+el
+ 
+rumbo
+ 
+del
+ 
+barco.
+ ●  Marco  Sorlí  (CTO):  Nuestro  experto  técnico.  Si  hay  que  configurar  un  servidor  o  
+programar
+ 
+en
+ 
+Python,
+ 
+él
+ 
+es
+ 
+el
+ 
+encargado.
+ 
+Le
+ 
+interesa
+ 
+mucho
+ 
+la
+ 
+Inteligencia
+ 
+Artificial.
+ 
+_________________________________________________________________________Pág  3  
+IQSTACK  _________________________________________________________________________  ●  Hugo  Matías  (CMO):  Lleva  la  seguridad  informática  y  el  marketing.  Su  objetivo  es  
+que
+ 
+la
+ 
+web
+ 
+sea
+ 
+segura
+ 
+y
+ 
+que
+ 
+el
+ 
+mensaje
+ 
+llegue
+ 
+a
+ 
+los
+ 
+clientes.
+ ●  Andrei  Chivu  (CFO):  El  responsable  de  los  números.  Se  encarga  de  que  las  
+cuentas
+ 
+cuadren
+ 
+y
+ 
+gestiona
+ 
+los
+ 
+recursos
+ 
+del
+ 
+equipo.
+ 
+2.3.  Nuestros  Objetivos  
+No  queremos  correr  antes  de  andar.  Nos  hemos  marcado  metas  realistas:  
+●  Corto  Plazo  (Año  1):  Montar  la  infraestructura  con  energía  solar,  lanzar  la  web  y  
+conseguir
+ 
+nuestros
+ 
+primeros
+ 
+10
+ 
+clientes
+ 
+de
+ 
+confianza
+ 
+(nuestra
+ 
+prueba
+ 
+piloto).
+ ●  Medio  Plazo  (Años  2-3):  Llegar  a  los  100  clientes  fijos  y  empezar  a  colaborar  
+oficialmente
+ 
+con
+ 
+centros
+ 
+educativos
+ 
+para
+ 
+dar
+ 
+charlas
+ 
+o
+ 
+becas.
+ ●  Largo  Plazo:  Mirar  hacia  Europa  y  tener  nuestro  propio  departamento  de  I+D  para  
+innovar
+ 
+en
+ 
+servidores
+ 
+de
+ 
+bajo
+ 
+consumo.
+ 
+ 
+2.4.  Metodología  de  Trabajo:  Scrum  
+En  tecnología,  lo  que  hoy  es  nuevo,  mañana  es  viejo.  Por  eso  no  podíamos  usar  un  método  
+de
+ 
+trabajo
+ 
+tradicional
+ 
+y
+ 
+rígido.
+ 
+Hemos
+ 
+elegido
+ 
+Scrum
+.
+ 
+¿Por  qué  Scrum?  Porque  somos  una  startup  con  recursos  limitados  (tiempo  y  dinero).  No  
+podemos
+ 
+pasarnos
+ 
+seis
+ 
+meses
+ 
+desarrollando
+ 
+un
+ 
+producto
+ 
+perfecto
+ 
+para
+ 
+luego
+ 
+descubrir
+ 
+que
+ 
+nadie
+ 
+lo
+ 
+quiere.
+ 
+Scrum
+ 
+nos
+ 
+permite
+ 
+trabajar
+ 
+en
+ 
+ciclos
+ 
+cortos
+ 
+de
+ 
+2
+ 
+semanas
+ 
+(llamados
+ 
+Sprints
+).
+ 
+Al
+ 
+final
+ 
+de
+ 
+cada
+ 
+Sprint
+,
+ 
+tenemos
+ 
+algo
+ 
+que
+ 
+funciona
+ 
+y
+ 
+que
+ 
+podemos
+ 
+enseñar.
+ 
+¿Cómo  lo  aplicamos  nosotros?  
+1.  Product  Backlog  (La  lista  de  deseos):  Tenemos  una  lista  gigante  con  todo  lo  que  
+queremos
+ 
+hacer
+ 
+(desde
+ 
+"comprar
+ 
+el
+ 
+dominio"
+ 
+hasta
+ 
+"montar
+ 
+el
+ 
+sistema
+ 
+de
+ 
+pagos").
+ 
+Unai,
+ 
+como
+ 
+Product
+ 
+Owner,
+ 
+decide
+ 
+qué
+ 
+es
+ 
+lo
+ 
+más
+ 
+urgente.
+ 2.  Sprints:  Cada  dos  semanas  seleccionamos  unas  pocas  tareas  de  esa  lista  y  nos  
+comprometemos
+ 
+a
+ 
+acabarlas.
+ 3.  Revisión:  Al  acabar,  vemos  qué  ha  fallado  y  qué  ha  ido  bien.  Si  un  cliente  nos  dice  
+"esto
+ 
+es
+ 
+difícil
+ 
+de
+ 
+usar",
+ 
+lo
+ 
+corregimos
+ 
+en
+ 
+el
+ 
+siguiente
+ 
+Sprint
+ 
+sin
+ 
+drama.
+ 
+Esta  forma  de  trabajar  nos  da  agilidad :  si  el  precio  de  la  luz  sube  o  sale  una  nueva  ley,  
+podemos
+ 
+cambiar
+ 
+el
+ 
+rumbo
+ 
+en
+ 
+cuestión
+ 
+de
+ 
+días.
+ 
+ 
+ 
+ 
+ 
+_________________________________________________________________________Pág  4  IQSTACK  _________________________________________________________________________   
+ 
+ 
+ 
+ 
+2.5.  Detalle  Operativo  de  la  Metodología  (Ceremonias  y  Artefactos)  
+Para  que  е l  tribunal  entienda  que  nuestra  gestion  es  profesional,  detallamos  cómo  
+aplicamos
+ 
+las
+ 
+ceremonias
+ 
+de
+ 
+Scrum
+ 
+en
+ 
+IQSTACK:
+ 
+1.  El  Sprint  Planning  (Planificación):  Al  inicio  de  cada  ciclo  de  dos  semanas,  nos  
+reunimos
+ 
+los
+ 
+cuаtro  socios  (generalment е  los  lunes  por  la  mañana).  Unai,  como  Product  
+Owner,
+ 
+trae
+ 
+las
+ 
+peticiones
+ 
+de
+ 
+los
+ 
+clientes
+ 
+o
+ 
+las
+ 
+mejoras
+ 
+necesarias
+ 
+(ej:
+ 
+"mejorar
+ 
+la
+ 
+velocidad
+ 
+de
+ 
+carga").
+ 
+Juntos
+ 
+decidimos
+ 
+cuánto
+ 
+trabajo
+ 
+podemos
+ 
+asumir
+ 
+en
+ 
+esas
+ 
+dos
+ 
+semanas
+ 
+para
+ 
+no
+ 
+saturarnos
+ 
+y
+ 
+garantizar
+ 
+la
+ 
+calidad.
+ 
+2.  Daily  Stand-up  (Reunión  diaria):  Hacemos  una  reunión  rápida  de  15  minutos  cada  
+mañana.
+ 
+No
+ 
+es
+ 
+para
+ 
+perder
+ 
+tiempo,
+ 
+sino
+ 
+para
+ 
+responder
+ 
+tres
+ 
+preguntas
+ 
+clave:
+ 
+●  ¿Qué  hice  ayer?  (Ej:  "Configuré  el  servidor  de  correo").  ●  ¿Qué  haré  hoy?  (Ej:  "Instalaré  el  certificado  de  seguridad").  ●  ¿Tengo  algún  bloqueo?  (Ej:  "Necesito  que  Marco  me  pase  las  claves").  Esto  evita  
+que
+ 
+estemos
+ 
+parados
+ 
+esperando
+ 
+a
+ 
+otros.
+ 
+3.  Sprint  Review  y  Retrospectiva:  Al  acabar  las  dos  semanas,  analizamos  el  resultado.  No  
+solo
+ 
+vemos
+ 
+si
+ 
+el
+ 
+producto
+ 
+funciona,
+ 
+sino
+ 
+cómo
+ 
+hemos
+ 
+trabajado
+ 
+nosotros.
+ 
+Si
+ 
+hubo
+ 
+conflictos
+ 
+o
+ 
+cuellos
+ 
+de
+ 
+botella,
+ 
+lo
+ 
+hablamos
+ 
+abiertamente
+ 
+para
+ 
+corregirlo
+ 
+en
+ 
+el
+ 
+siguiente
+ 
+ciclo.
+ 
+Esta
+ 
+mejora
+ 
+continua
+ 
+es
+ 
+vital
+ 
+para
+ 
+nosotros
+ 
+al
+ 
+ser
+ 
+un
+ 
+equipo
+ 
+joven.
+ 
+Herramientas  de  Gestión:  Para  llevar  este  control  no  usamos  papel,  usamos  herramientas  
+digitales
+ 
+colaborativas
+ 
+como
+ 
+Trello
+ 
+(para
+ 
+el
+ 
+tablero
+ 
+visual
+ 
+de
+ 
+tareas:
+ 
+"Pendiente",
+ 
+"En
+ 
+proceso",
+ 
+"Hecho")
+ 
+y
+ 
+Slack
+ 
+para
+ 
+la
+ 
+comunicación
+ 
+interna,
+ 
+evitando
+ 
+el
+ 
+caos
+ 
+de
+ 
+los
+ 
+grupos
+ 
+de
+ 
+WhatsApp.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+_________________________________________________________________________Pág  5  IQSTACK  _________________________________________________________________________   
+ 
+ 
+ 
+ 
+3.  ANÁLISIS  DEL  ENTORNO  
+Antes  de  invertir  dinero,  hemos  analizado  qué  factores  externos  nos  afectan  y  que  no  
+podemos
+ 
+controlar.
+ 
+Hemos
+ 
+usado
+ 
+la
+ 
+herramienta
+ 
+PESTEL
+:
+ 
+3.1.  Factores  Políticos  y  Legales  
+Nos  beneficia  mucho  que  la  Unión  Europea  esté  obsesionada  con  el  "Pacto  Verde"  y  la  
+neutralidad
+ 
+climática
+ 
+para
+ 
+2050.
+ 
+Esto
+ 
+significa
+ 
+que
+ 
+habrá
+ 
+leyes
+ 
+más
+ 
+duras
+ 
+para
+ 
+los
+ 
+que
+ 
+contaminan
+ 
+y
+ 
+ayudas
+ 
+para
+ 
+empresas
+ 
+verdes
+ 
+como
+ 
+la
+ 
+nuestra.
+ 
+Además,
+ 
+el
+ 
+programa
+ 
+España
+ 
+Digital
+ 
+2026
+ 
+ofrece
+ 
+subvenciones
+ 
+para
+ 
+digitalizar
+ 
+PYMES,
+ 
+que
+ 
+son
+ 
+justo
+ 
+nuestros
+ 
+clientes
+ 
+potenciales.
+ 
+3.2.  Factores  Económicos  
+El  mercado  del  cloud  en  España  crece  un  10%  cada  año,  lo  cual  es  genial.  Pero  no  todo  es  
+bueno:
+ 
+el
+ 
+precio
+ 
+de
+ 
+la
+ 
+electricidad
+ 
+es
+ 
+muy
+ 
+volátil.
+ 
+Como
+ 
+nuestros
+ 
+servidores
+ 
+consumen
+ 
+luz
+ 
+las
+ 
+24
+ 
+horas,
+ 
+una
+ 
+subida
+ 
+fuerte
+ 
+nos
+ 
+afecta
+ 
+directamente
+ 
+a
+ 
+los
+ 
+costes.
+ 
+Por
+ 
+eso,
+ 
+invertir
+ 
+en
+ 
+energía
+ 
+solar
+ 
+propia
+ 
+no
+ 
+es
+ 
+solo
+ 
+ecología,
+ 
+es
+ 
+un
+ 
+seguro
+ 
+económico.
+ 
+3.3.  Factores  Socioculturales  y  Tecnológicos  
+La  sociedad  ha  cambiado.  Ahora  las  empresas  se  preocupan  por  la  "imagen  verde"  y  los  
+clientes
+ 
+valoran
+ 
+la
+ 
+sostenibilidad.
+ 
+Tecnológicamente,
+ 
+la
+ 
+fibra
+ 
+óptica
+ 
+ya
+ 
+llega
+ 
+a
+ 
+casi
+ 
+todos
+ 
+los
+ 
+pueblos,
+ 
+lo
+ 
+que
+ 
+permite
+ 
+que
+ 
+una
+ 
+empresa
+ 
+de
+ 
+Benicarló
+ 
+ofrezca
+ 
+servicios
+ 
+de
+ 
+alta
+ 
+velocidad
+ 
+igual
+ 
+que
+ 
+una
+ 
+de
+ 
+Madrid.
+ 
+3.4.  Factores  Ecológicos  
+La  "contaminación  digital"  es  un  problema  real.  Los  centros  de  datos  consumen  muchísima  
+energía.
+ 
+Nuestra
+ 
+apuesta
+ 
+por
+ 
+reducir
+ 
+la
+ 
+huella
+ 
+de
+ 
+carbono
+ 
+nos
+ 
+posiciona
+ 
+en
+ 
+el
+ 
+lado
+ 
+correcto
+ 
+de
+ 
+la
+ 
+historia
+ 
+y
+ 
+nos
+ 
+diferencia
+ 
+de
+ 
+la
+ 
+competencia
+ 
+barata
+ 
+pero
+ 
+contaminante.
+ 
+ 
+3.6.  Análisis  de  la  Competencia  (Porter)  El  sector  del  hosting  es  una  jungla.  Hay  muchísima  competencia,  pero  la  analizamos  así:  
+_________________________________________________________________________Pág  6  IQSTACK  _________________________________________________________________________  ●  Rivales:  Hay  gigantеs  como  Amazon  (AWS)  o  Googl е  que  son  muy  baratos  y  
+potentes,
+ 
+pero
+ 
+son
+ 
+impersonales
+ 
+y
+ 
+dificiles
+ 
+de
+ 
+usar.
+ 
+Nosotros
+ 
+no
+ 
+competimos
+ 
+en
+ 
+precio
+ 
+contra
+ 
+ellos,
+ 
+competimos
+ 
+en
+ 
+cercanía
+.
+ ●  Clientes:  Nuestros  clientes  (PYMES)  tienen  poder  porque  hay  mucha  oferta,  pero  
+buscan
+ 
+a
+ 
+alguien
+ 
+que
+ 
+les
+ 
+hable
+ 
+en
+ 
+su
+ 
+idioma
+ 
+y
+ 
+no
+ 
+con
+ 
+tecnicismos.
+ 
+Ahí
+ 
+ganamos
+ 
+nosotros.
+ ●  Proveedores:  D е pendemos  de  las  compañías  de  luz  y  de  los  fabricantes  de  
+hardwar
+е
+ 
+(Dell,
+ 
+HP...).
+ 
+Tenemos
+ 
+que
+ 
+cuidar
+ 
+esas
+ 
+relaciones.
+ 
+_________________________________________________________________________Pág  7  IQSTACK  _________________________________________________________________________  ●   
+3.7.  Análisis  DAFO  Resumiendo  nuestra  situación  interna  y  externa:  
+DEBILIDADES  (Lo  malo  nuestro)  AMENAZAS  (El  peligro  de  fuera)  
+-  Somos  nuevos  y  nadie  nos  conoce  aún.  
+-  Tenemos  poco  presupuesto  comparado  con  las  grandes  empresas.  
+-  Somos  jóvenes  y  nos  falta  experiencia  gestionando  negocios.  
+-  Que  suba  mucho  el  precio  de  la  luz  de  golpe.  
+-  Que  Amazon  o  Google  saquen  una  tarifa  "verde"  muy  barata.  
+-  Ciberataques  fuertes  a  nuestros  servidores.  
+ FORTALEZAS  (Lo  bueno  nuestro)  OPORTUNIDADES  (Lo  bueno  de  fuera)  
+-  Energía  renovable  real:  somos  100%  verdes.  
+-  Trato  directo:  llamamos  a  los  clientes  por  su  nombre.  
+-  Estructura  ligera:  gastos  bajos  gracias  a  Scrum.  
+-  Hay  muchas  ayudas  públicas  (Kit  Digital).  
+-  Cada  vez  más  empresas  buscan  proveedores  sostenibles  por  imagen  (RSC).  
+-  Crecimiento  del  trabajo  remoto  y  digitalización.  
+3.8.  Análisis  del  Entorno  Competitivo  (Las  5  Fuerzas  de  Porter)  
+Para  saber  si  el  negocio  es  atractivo,  hemos  analizado  la  competencia  usando  el  modelo  de  
+Porter:
+ 
+1.  Rivalidad  entre  competidores  (ALTA):  El  mercado  del  hosting  es  un  océano  rojo.  
+Competimos
+ 
+contra
+ 
+gigantes
+ 
+(Amazon
+ 
+AWS,
+ 
+Google
+ 
+Cloud)
+ 
+y
+ 
+contra
+ 
+empresas
+ 
+low-cost
+ 
+(IONOS,
+ 
+Hostinger).
+ ○  Nuestra  defensa:  No  entramos  en  guerra  de  precios.  Nos  diferenciamos  por  
+el
+ 
+nicho
+ 
+ecológico
+ 
+y
+ 
+el
+ 
+trato
+ 
+humano
+.
+ 
+Nadie
+ 
+llama
+ 
+a
+ 
+Google
+ 
+y
+ 
+le
+ 
+contesta
+ 
+un
+ 
+técnico
+ 
+por
+ 
+su
+ 
+nombre;
+ 
+en
+ 
+IQSTACK
+ 
+sí.
+ 
+_________________________________________________________________________Pág  8  IQSTACK  _________________________________________________________________________  2.  Poder  de  negociación  de  los  clientes  (MEDIO-ALTO):  El  cliente  tiene  muchas  
+opciones.
+ 
+Si
+ 
+no
+ 
+le
+ 
+gustas,
+ 
+se
+ 
+va
+ 
+a
+ 
+otro
+ 
+con
+ 
+un
+ 
+clic.
+ ○  Nuestra  estrategia:  Ofrecemos  contratos  sin  permanencia  para  demostrar  
+confianza
+ 
+y
+ 
+fidelizamos
+ 
+mediante
+ 
+la
+ 
+calidad
+ 
+del
+ 
+soporte.
+ 
+Si
+ 
+el
+ 
+cliente
+ 
+se
+ 
+siente
+ 
+cuidado,
+ 
+no
+ 
+se
+ 
+va
+ 
+por
+ 
+ahorrar
+ 
+2
+ 
+euros.
+ 3.  Poder  de  negociación  de  los  proveedores  (MEDIO):  Dependemos  de  los  
+fabricantes
+ 
+de
+ 
+hardware
+ 
+(Dell,
+ 
+HP)
+ 
+y
+ 
+de
+ 
+las
+ 
+comercializadoras
+ 
+de
+ 
+energía.
+ ○  Nuestra  estrategia:  Al  instalar  nuestras  propias  placas  solares ,  reducimos  
+la
+ 
+dependencia
+ 
+de
+ 
+las
+ 
+eléctricas
+ 
+y
+ 
+nos
+ 
+protegemos
+ 
+de
+ 
+las
+ 
+subidas
+ 
+de
+ 
+precio
+ 
+de
+ 
+la
+ 
+luz.
+ 4.  Amenaza  de  nuevos  competidores  (MEDIA):  Montar  un  servidor  en  casa  es  
+relativamente
+ 
+fácil,
+ 
+pero
+ 
+montar
+ 
+una
+ 
+empresa
+ 
+legal
+ 
+y
+ 
+fiable
+ 
+no
+ 
+tanto.
+ 
+La
+ 
+barrera
+ 
+de
+ 
+entrada
+ 
+es
+ 
+la
+ 
+confianza
+ 
+y
+ 
+la
+ 
+seguridad
+ 
+de
+ 
+los
+ 
+datos.
+ 5.  Amenaza  de  productos  sustitutivos  (ALTA):  Plataformas  como  Wix  o  Shopify  
+permiten
+ 
+hacer
+ 
+webs
+ 
+sin
+ 
+contratar
+ 
+hosting
+ 
+aparte.
+ ○  Nuestra  respuesta:  Esas  plataformas  son  "jardines  cerrados"  (si  te  vas,  
+pierdes
+ 
+tu
+ 
+web).
+ 
+Nosotros
+ 
+educamos
+ 
+al
+ 
+cliente
+ 
+sobre
+ 
+la
+ 
+importancia
+ 
+de
+ 
+ser
+ 
+dueño
+ 
+de
+ 
+sus
+ 
+datos
+ 
+y
+ 
+su
+ 
+web.
+ 
+3.9.  Alineación  con  los  ODS  (Agenda  2030)  
+IQSTACK  no  solo  busca  dinero,  busca  impacto.  Nos  alineamos  directamente  con  los  
+Objetivos
+ 
+de
+ 
+Desarrollo
+ 
+Sostenible
+ 
+de
+ 
+la
+ 
+ONU
+ 
+(según
+ 
+nuestro
+ 
+Borrador
+ 
+4):
+ 
+●  ODS  7  (Energía  Asequible  y  No  Contaminante):  Nuestra  infraestructura  es  solar.  
+Promovemo
+ѕ
+ 
+el
+ 
+u
+ѕ
+o
+ 
+de
+ 
+energia
+ѕ
+ 
+limpias
+ 
+en
+ 
+un
+ 
+sector
+ 
+tradicionalmente
+ 
+"sucio"
+ 
+energéticamente.
+ ●  ODS  9  (Industria,  Innovación  e  Infraestructura):  Facilitamo ѕ  el  ace ѕ o  a  internet  y  
+tecnología
+ 
+a
+ 
+pequeña
+ѕ
+ 
+PYMES
+ 
+locale
+ѕ,
+ 
+modernizando
+ 
+la
+ 
+industria
+ 
+informatica
+ 
+de
+ 
+Benicarló.
+ ●  ODS  12  (Producción  y  Consumo  Responsables):  Educamos  a  nuestros  clientes  
+sobre
+ 
+la
+ 
+"basura
+ 
+digital"
+ 
+y
+ 
+cómo
+ 
+optimizar
+ 
+sus
+ 
+webs
+ 
+para
+ 
+que
+ 
+consuman
+ 
+menos
+ 
+energía
+ 
+al
+ 
+cargar.
+ 
+  
+4.  ESTRUCTURA  ORGANIZATIVA  DE  LA  EMPRESA  
+4.1.  Organigrama  Funcional  
+Al  ser  una  empresa  pequeña  formada  por  cuatro  socios  trabajadores,  hemos  diseñado  una  
+estructura
+ 
+horizontal.
+ 
+Huimos
+ 
+de
+ 
+las
+ 
+jerarquías
+ 
+estrictas
+ 
+porque
+ 
+creemos
+ 
+que
+ 
+frenan
+ 
+la
+ 
+innovación.
+ 
+Sin
+ 
+embargo,
+ 
+para
+ 
+que
+ 
+no
+ 
+haya
+ 
+caos,
+ 
+cada
+ 
+uno
+ 
+tiene
+ 
+su
+ 
+área
+ 
+de
+ 
+responsabilidad
+ 
+clara,
+ 
+basada
+ 
+en
+ 
+nuestras
+ 
+fortalezas
+ 
+personales:
+ 
+●  Dirección  General  y  Producto  (CEO):  Unai  Arnau.  Coordina  la  visión  global  y  
+prioriza
+ 
+qué
+ 
+servicios
+ 
+lanzamos
+ 
+primero.
+ 
+_________________________________________________________________________Pág  9  IQSTACK  _________________________________________________________________________  ●  Dirección  Técnica  (CTO):  Marco  Sorlí.  Es  el  cerebro  detrás  de  los  servidores,  la  
+configuración
+ 
+de
+ 
+Linux
+ 
+y
+ 
+la
+ 
+implementación
+ 
+de
+ 
+la
+ 
+energía
+ 
+solar.
+ ●  Dirección  de  Marketing  (CMO):  Hugo  Matías.  Se  encarga  de  que  nos  conozcan,  la  
+seguridad
+ 
+de
+ 
+la
+ 
+marca
+ 
+y
+ 
+las
+ 
+redes
+ 
+sociales.
+ ●  Dirección  Financiera  (CFO):  Andrei  Chivu.  Controla  los  costes,  las  facturas  y  que  
+no
+ 
+nos
+ 
+desviemos
+ 
+del
+ 
+presupuesto.
+ 
+(Nota:  Aunque  cada  uno  lidera  un  área,  las  decisiones  importantes  como  inversiones  o  
+cambios
+ 
+de
+ 
+estrategia
+ 
+las
+ 
+votamos
+ 
+en
+ 
+la
+ 
+Junta
+ 
+de
+ 
+Socios).
+ 
+4.2.  Cultura  Empresarial  y  Valores  
+Nuestra  cultura  se  resume  en  una  frase:  "Tecnología  con  conciencia" .  
+●  Misión:  Hacer  que  cualquier  pequeña  empresa  u  ONG  pueda  tener  una  web  rápida  
+y
+ 
+segura
+ 
+sin
+ 
+necesidad
+ 
+de
+ 
+ser
+ 
+expertos
+ 
+informáticos,
+ 
+y
+ 
+sin
+ 
+dañar
+ 
+el
+ 
+planeta
+ 
+en
+ 
+el
+ 
+proceso.
+ ●  Visión:  Queremos  ser  la  referencia  de  "Green  Hosting"  en  la  Comunidad  
+Valenciana,
+ 
+demostrando
+ 
+que
+ 
+se
+ 
+puede
+ 
+ser
+ 
+rentable
+ 
+y
+ 
+ecológico
+ 
+a
+ 
+la
+ 
+vez.
+ ●  Valores  (Nuestro  ADN):  1.  Sostenibilidad:  No  es  una  moda,  es  nuestra  base.  Usamos  energía  
+renovable.
+ 2.  Cercanía:  El  cliente  habla  con  personas  (nosotros),  no  con  contestadores  
+automáticos.
+ 3.  Transparencia:  Sin  letra  pequeña  en  los  precios  ni  en  el  uso  de  datos.  
+4.3.  Política  de  Recursos  Humanos  (RR.HH.)  
+Durante  el  primer  año,  la  plantilla  somos  exclusivamente  los  cuatro  socios  fundadores .  
+●  Salarios:  Hemos  acordado  una  política  de  bootstrapping  (autofinanciación).  Durante  
+los
+ 
+primeros
+ 
+12
+ 
+meses
+ 
+no
+ 
+cobraremos
+ 
+un
+ 
+sueldo
+ 
+fijo
+ 
+de
+ 
+mercado
+,
+ 
+sino
+ 
+que
+ 
+reinvertiremos
+ 
+los
+ 
+beneficios
+ 
+para
+ 
+hacer
+ 
+crecer
+ 
+la
+ 
+empresa.
+ 
+Nuestro
+ 
+objetivo
+ 
+es
+ 
+empezar
+ 
+a
+ 
+asignar
+ 
+sueldos
+ 
+a
+ 
+partir
+ 
+del
+ 
+segundo
+ 
+año,
+ 
+cuando
+ 
+alcancemos
+ 
+la
+ 
+estabilidad
+ 
+financiera.
+ ●  Forma  de  trabajo:  Trabajamos  por  objetivos  ( Sprints  de  Scrum),  no  por  horas  
+calentando
+ 
+la
+ 
+silla.
+ 
+Esto
+ 
+nos
+ 
+permite
+ 
+estudiar
+ 
+y
+ 
+trabajar
+ 
+a
+ 
+la
+ 
+vez.
+ 
+5.  DEFINICIÓN  DEL  MERCADO  
+El  mercado  del  hosting  y  los  servicios  en  la  nube  en  España  es  enorme  y  está  creciendo  (un  
+10%
+ 
+anual
+ 
+según
+ 
+los
+ 
+informes
+ 
+del
+ 
+sector).
+ 
+Sin
+ 
+embargo,
+ 
+está
+ 
+dominado
+ 
+por
+ 
+gigantes
+ 
+como
+ 
+Amazon
+ 
+o
+ 
+Google,
+ 
+que
+ 
+compiten
+ 
+por
+ 
+precio
+ 
+pero
+ 
+ofrecen
+ 
+un
+ 
+trato
+ 
+muy
+ 
+frío.
+ 
+Nosotros  no  vamos  a  por  "todo  el  mercado".  Nos  enfocamos  en  un  nicho  de  mercado  
+desatendido:
+ 
+el
+ 
+cliente
+ 
+que
+ 
+valora
+ 
+la
+ 
+sostenibilidad
+ 
+y
+ 
+necesita
+ 
+ayuda
+ 
+técnica.
+ 
+ 
+_________________________________________________________________________Pág  10  IQSTACK  _________________________________________________________________________  6.  IDENTIFICACIÓN  Y  ELECCIÓN  DEL  CLIENTE  
+Hemos  segmentado  el  mercado  para  no  disparar  a  ciegas.  Nuestros  clientes  ideales  son:  
+6.1.  Segmentación  de  Clientes  
+1.  PYMES  y  Autónomos  Locales:  Pequeños  negocios  (gestorías,  tiendas,  
+reformistas)
+ 
+de
+ 
+Benicarló
+ 
+y
+ 
+alrededores
+ 
+que
+ 
+saben
+ 
+que
+ 
+necesitan
+ 
+una
+ 
+web
+ 
+pero
+ 
+no
+ 
+saben
+ 
+cómo
+ 
+montarla
+ 
+ni
+ 
+mantenerla.
+ 2.  Startups  Tecnológicas:  Emprendedores  jóvenes  que  buscan  proveedores  que  
+compartan
+ 
+sus
+ 
+valores
+ 
+modernos
+ 
+y
+ 
+ecológicos.
+ 3.  ONGs  y  Asociaciones:  Entidades  sin  ánimo  de  lucro  que  necesitan  precios  
+ajustados
+ 
+y
+ 
+valoran
+ 
+mucho
+ 
+que
+ 
+sus
+ 
+proveedores
+ 
+sean
+ 
+socialmente
+ 
+responsables
+ 
+(RSC).
+ 
+ 
+6.2.  Estrategia  de  Posicionamiento  
+Nos  posicionamos  como  el  "Hosting  Verde  y  Humano" .  
+●  Frente  a  los  low-cost  (baratos  pero  sin  soporte),  nosotros  ofrecemos  ayuda  real .  ●  Frente  a  los  premium  (caros  y  complejos),  nosotros  ofrecemos  sencillez  y  cercanía .  
+ 
+ 
+ 
+ 
+ 
+ 
+_________________________________________________________________________Pág  11  IQSTACK  _________________________________________________________________________  7.  PROGRAMA  OPERATIVO  (MARKETING  MIX)  
+Para  vender  nuestro  servicio,  hemos  diseñado  las  4  P's  del  Marketing:  
+7.1.  Producto  
+Ofrecemos  más  que  un  espacio  en  un  disco  duro.  Nuestro  servicio  incluye:  
+●  Alojamiento  Web:  Servidor е s  alimentados  con  energía  solar.  ●  Dominio  y  SSL:  S е guridad  y  nombre  propio  incluidos.  ●  Soporte  Técnico  "Humano":  Asistencia  por  teléfono  y  chat  con  nosotros  mismos.  ●  Copias  de  Seguridad:  Para  que  el  cliente  nunca  pierda  sus  datos.  
+7.2.  Precio  
+Usamos  una  estrategia  de  penetración .  Entramos  con  pr е cios  competitivos  para  captar  a  
+los
+ 
+primeros
+ 
+clientes,
+ 
+pero
+ 
+sin
+ 
+tirarlos
+ 
+por
+ 
+los
+ 
+suelos,
+ 
+porque
+ 
+nuestro
+ 
+soporte
+ 
+tiene
+ 
+valor.
+ 
+●  Plan  Básico:  Desde  9,99€/mes  (para  webs  sencillas).  ●  Plan  PRO:  Desde  19,99€/mes  (para  tiendas  online  que  necesitan  más  potencia).  ●  Descuento  Social:  20%  de  d е scuento  fijo  para  ONGs  y  Asociaciones.  
+7.3.  Distribución  
+Es  un  canal  directo  online .  Todo  se  hace  a  través  de  nuestra  web  www.iqstack.com  
+(ejemplo).
+ 
+No
+ 
+usamos
+ 
+intermediarios.
+ 
+El
+ 
+cliente
+ 
+entra,
+ 
+elige
+ 
+su
+ 
+plan
+ 
+y
+ 
+lo
+ 
+activa
+ 
+al
+ 
+instante.
+ 
+Al
+ 
+ser
+ 
+un
+ 
+servicio
+ 
+digital,
+ 
+no
+ 
+tenemos
+ 
+costes
+ 
+de
+ 
+transporte
+ 
+ni
+ 
+logística
+ 
+física.
+ 
+7.4.  Comunicación  
+Como  tenemos  poco  presupuesto,  usamos  е l  metodo  ( Marketing  de  Guerrilla  y  Digital):  
+1.  SEO  Local:  Posicionarnos  en  Google  cuando  alguien  busque  "diseño  web"  o  
+"hosting
+ 
+ecológico".
+ 2.  Redes  Sociales  (LinkedIn  y  TikTok):  En  LinkedIn  buscamos  a  las  empresas;  en  
+TikTok
+ 
+subimos
+ 
+vídeos
+ 
+cortos
+ 
+enseñando
+ 
+"trucos
+ 
+para
+ 
+tu
+ 
+web"
+ 
+para
+ 
+atraer
+ 
+a
+ 
+estudiantes
+ 
+y
+ 
+emprendedores
+ 
+jóvenes.
+ 3.  Boca  a  boca:  Ofrecemos  un  mes  gratis  a  los  clientes  que  nos  traigan  a  un  amigo  
+(Plan
+ 
+de
+ 
+Referidos).
+ 
+ 
+7.5.  ESTRATEGIA  DE  MARKETING  DIGITAL  (Detalle)  
+Dado  que  somos  una  empresa  digital,  nuestro  marketing  debe  ser  100%  online.  Hemos  
+diseñado
+ 
+un
+ 
+embudo
+ 
+de
+ 
+ventas
+ 
+basado
+ 
+en
+ 
+tres
+ 
+fases:
+ 
+Fase  1:  Atracción  (Tráfico)  
+_________________________________________________________________________Pág  12  IQSTACK  _________________________________________________________________________  ●  SEO  (Posicionamiento  Orgánico):  Crearemos  contenido  en  un  blog  corporativo  
+atacando
+ 
+palabras
+ 
+clave
+ 
+"Long
+ 
+Tail"
+ 
+(búsquedas
+ 
+específicas).
+ ○  Ejemplo:  En  lugar  de  intentar  posicionar  "Hosting"  (imposible),  escribiremos  
+artículos
+ 
+sobre
+ 
+"¿Cómo
+ 
+digitalizar
+ 
+una
+ 
+ferretería
+ 
+paso
+ 
+a
+ 
+paso?"
+ 
+o
+ 
+"Ventajas
+ 
+del
+ 
+hosting
+ 
+solar".
+ 
+Esto
+ 
+atrae
+ 
+tráfico
+ 
+cualificado
+ 
+de
+ 
+nuestra
+ 
+zona.
+ ●  Redes  Sociales:  ○  LinkedIn:  Para  conectar  con  gerentes  de  PYMES  y  ONGs.  Publicaremos  
+casos
+ 
+de
+ 
+éxito
+ 
+y
+ 
+noticias
+ 
+sobre
+ 
+ciberseguridad.
+ ○  TikTok/Instagram:  Para  humanizar  la  marca.  Subiremos  vídeos  cortos  de  
+"Un
+ 
+día
+ 
+en
+ 
+la
+ 
+oficina"
+ 
+o
+ 
+"Tips
+ 
+rápidos
+ 
+para
+ 
+tu
+ 
+PC",
+ 
+mostrando
+ 
+nuestras
+ 
+caras
+ 
+para
+ 
+generar
+ 
+confianza
+ 
+en
+ 
+el
+ 
+público
+ 
+joven
+ 
+y
+ 
+emprendedor.
+ 
+Fase  2:  Conversión  (Leads)  
+●  Ofreceremos  un  "Lead  Magnet" :  Un  Ebook  gratuito  titulado  "Guía  de  
+Ciberseguridad
+ 
+para
+ 
+PYMES"
+ 
+o
+ 
+una
+ 
+auditoría
+ 
+web
+ 
+gratuita.
+ 
+A
+ 
+cambio,
+ 
+el
+ 
+visitante
+ 
+nos
+ 
+deja
+ 
+su
+ 
+email.
+ ●  Campaña  de  Email  Marketing:  Enviaremos  una  secuencia  de  correos  (Newsletter)  
+aportando
+ 
+valor,
+ 
+no
+ 
+solo
+ 
+vendiendo,
+ 
+para
+ 
+que
+ 
+cuando
+ 
+necesiten
+ 
+un
+ 
+hosting,
+ 
+se
+ 
+acuerden
+ 
+de
+ 
+nosotros.
+ 
+Fase  3:  Fidelización  
+●  Uso  de  métricas  (KPIs):  Mediremos  mensualmente  el  CAC  (Coste  de  Adquisición  de  
+Cliente)
+ 
+y
+ 
+el
+ 
+LTV
+ 
+(Valor
+ 
+de
+ 
+Vida
+ 
+del
+ 
+Cliente)
+ 
+para
+ 
+saber
+ 
+si
+ 
+nuestras
+ 
+campañas
+ 
+de
+ 
+publicidad
+ 
+en
+ 
+Google
+ 
+Ads
+ 
+son
+ 
+rentables.
+ 
+Según
+ 
+el
+ 
+Borrador
+ 
+7,
+ 
+estimamos
+ 
+un
+ 
+presupuesto
+ 
+inicial
+ 
+de
+ 
+marketing
+ 
+de
+ 
+360€/mes
+ 
+en
+ 
+publicidad
+ 
+pagada
+ 
+(SEM).
+ 
+ 
+_________________________________________________________________________Pág  13  IQSTACK  _________________________________________________________________________  8.  PLAN  ECONÓMICO-FINANCIERO  
+Este  apartado  es  la  prueba  de  fuego  de  IQSTACK.  Hemos  elaborado  un  plan  realista,  
+siguiendo
+ 
+el
+ 
+principio
+ 
+de
+ 
+prudencia
+ 
+(preferimos
+ 
+estimar
+ 
+gastos
+ 
+altos
+ 
+e
+ 
+ingresos
+ 
+bajos
+ 
+para
+ 
+no
+ 
+llevarnos
+ 
+sorpresas).
+ 
+8.1.  Plan  de  Inversiones  y  Gastos  Iniciales  
+Para  poner  en  marcha  la  empresa,  no  necesitamos  una  nave  industrial  gigante,  pero  sí  
+tecnología
+ 
+de
+ 
+calidad.
+ 
+Hemos
+ 
+dividido
+ 
+lo
+ 
+que
+ 
+necesitamos
+ 
+en
+ 
+dos
+ 
+grupos:
+ 
+1.  Inversiones  (Activo  No  Corriente):  Bienes  que  durarán  años  en  la  empresa.  ○  Equipos  informáticos:  4  portátiles  potentes  para  desarrollo  y  gestión.  ○  Infraestructura  de  Servidores:  La  base  de  nuestro  negocio.  ○  Instalación  Solar:  Paneles  y  baterías  para  garantizar  el  "Green  Hosting".  ○  Mobiliario:  Mesas  y  sillas  ergonómicas  para  la  oficina  (inicialmente  
+trabajaremos
+ 
+en
+ 
+un
+ 
+local
+ 
+propiedad
+ 
+de
+ 
+un
+ 
+familiar
+ 
+cedido
+ 
+a
+ 
+coste
+ 
+cero,
+ 
+ahorrando
+ 
+alquiler).
+ 2.  Gastos  de  Constitución  y  Lanzamiento:  ○  Notaría  y  Registro  Mercantil.  ○  Campaña  de  marketing  de  lanzamiento.  ○  Registro  de  marca  y  dominios.  
+Resumen  de  Necesidades  Iniciales:  Según  nuestros  cálculos  (detallados  en  el  Anexo  
+Financiero),
+ 
+necesitamos
+ 
+un
+ 
+total
+ 
+de
+ 
+7.800
+ 
+€
+ 
+para
+ 
+arrancar
+ 
+con
+ 
+garantías
+ 
+y
+ 
+tener
+ 
+liquidez
+ 
+los
+ 
+primeros
+ 
+meses.
+ 
+8.2.  Plan  de  Financiación  (¿De  dónde  sale  el  dinero?)  
+Para  cubrir  esos  7.800  €,  hemos  optado  por  no  pedir  préstamos  al  banco  (para  evitar  pagar  
+intereses
+ 
+desde
+ 
+el
+ 
+día
+ 
+1).
+ 
+Nos
+ 
+financiamos
+ 
+así:
+ 
+●  Capital  Social  (Aportación  Propia):  Cada  uno  de  los  4  socios  aporta  1.000  €.  Total:  
+4.000
+ 
+€
+.
+ ●  Financiación  Alternativa  (Crowdfunding):  Lanzaremos  una  campaña  de  
+micromecenazgo
+ 
+ofreciendo
+ 
+meses
+ 
+de
+ 
+hosting
+ 
+gratis
+ 
+por
+ 
+adelantado.
+ 
+Estimamos
+ 
+recaudar:
+ 
+3.800
+ 
+€
+.
+ 
+ 
+ 
+Categoría  Importe  (€)  Porcentaje  (%)  
+Inversión  Hardware  6.300  €  58,33%  
+_________________________________________________________________________Pág  14  IQSTACK  _________________________________________________________________________  
+Gastos  Mensuales  3.300  €  30,56%  
+Gastos  Iniciales  1.200  €  11,11%  
+TOTAL  10.800  €  100%  
+ 
+ 
+ 
+8.3.  Previsión  de  Ingresos  y  Gastos  (Cuenta  de  Resultados)  
+Nuestra  estrategia  de  precios  nos  permite  tener  un  margen  comercial  saludable.  
+●  Ingresos:  Hemos  estimado  captar  10  clientes  el  primer  mes  (prueba  piloto)  y  crecer  
+progresivamente
+ 
+hasta
+ 
+cerrar
+ 
+el
+ 
+año
+ 
+con
+ 
+una
+ 
+facturación
+ 
+cercana
+ 
+a
+ 
+los
+ 
+12.000
+ 
+€.
+ ●  Gastos  Fijos:  Son  nuestros  "enemigos"  a  batir.  Incluyen  la  cuota  de  autónomos  (con  
+tarifa
+ 
+plana
+ 
+el
+ 
+primer
+ 
+año),
+ 
+internet
+ 
+de
+ 
+alta
+ 
+velocidad
+ 
+y
+ 
+seguros.
+ 
+Al
+ 
+usar
+ 
+energía
+ 
+solar
+ 
+propia,
+ 
+reducimos
+ 
+la
+ 
+factura
+ 
+de
+ 
+la
+ 
+luz
+ 
+casi
+ 
+a
+ 
+cero,
+ 
+lo
+ 
+cual
+ 
+es
+ 
+nuestra
+ 
+gran
+ 
+ventaja
+ 
+competitiva.
+ 
+8.4.  Punto  Muerto  (Umbral  de  Rentabilidad)  
+Hemos  calculado  el  Punto  Muerto :  es  el  número  de  suscripciones  de  hosting  que  
+necesitamos
+ 
+vender
+ 
+para
+ 
+no
+ 
+perder
+ 
+dinero.
+ 
+●  Nuestro  calculo  indica  que  con  45  clientes  activos  cubrimos  todos  los  costes  fijos  y  
+variables.
+ ●  Prevemos  alcanzar  esa  cifra  en  el  mes  6 .  A  partir  de  ahí,  cada  nuevo  cli е nte  es  
+ben
+е
+ficio
+ 
+limpio.
+ 
+ 
+Mes  Costes  Acumulados  (€)  Ventas  Acumuladas  (€)  Situación  
+Mes  1  7.800  10  Pérdida  
+_________________________________________________________________________Pág  15  IQSTACK  _________________________________________________________________________  
+Mes  2  8.100  610  Pérdida  
+Mes  3  8.400  1.410  Pérdida  
+Mes  4  8.700  2.410  Pérdida  
+Mes  5  9.000  3.410  Pérdida  
+Mes  6  9.300  4.510  Pérdida  
+Mes  7  9.600  5.610  Pérdida  
+Mes  8  9.900  6.810  Pérdida  
+Mes  9  10.200  8.010  Pérdida  
+Mes  10  10.500  9.310  Pérdida  
+Mes  11  10.800  10.610  Punto  de  Cruce  (Aprox)  
+Mes  12  11.100  12.010  Beneficio  
+ 
+8.5.  Balance  de  Situación  Previsional  (Año  1)  
+Al  final  del  primer  año,  la  "foto"  de  nuestra  empresa  es  positiva  y  equilibrada:  
+●  ACTIVO  (Lo  que  tenemos):  
+_________________________________________________________________________Pág  16  IQSTACK  _________________________________________________________________________  ○  Una  infraestructura  tecnológica  valorada  en  unos  5.000  €  (ya  amortizada  
+parcialmente).
+ ○  Dinero  en  caja  (Tesorería)  suficiente  para  operar  3  meses  sin  ingresos  
+(Fondo
+ 
+de
+ 
+Maniobra
+ 
+positivo).
+ ●  PASIVO  (Lo  que  debemos):  ○  No  ten е mos  deudas  bancarias  a  largo  plazo.  ○  Solo  pequeñas  deudas  con  proveedores  a  corto  plazo  (pagos  a  30  días).  
+Conclusión  Financiera:  El  Resultado  Neto  (Beneficio)  esperado  para  е l  primer  año  es  de  
+5.036
+ 
+€
+.
+ 
+Aunque
+ 
+no
+ 
+es
+ 
+una
+ 
+cifra
+ 
+millonaria,
+ 
+confirma
+ 
+que
+ 
+el
+ 
+negocio
+ 
+es
+ 
+viable
+ 
+y
+ 
+sostenible
+ 
+desde
+ 
+el
+ 
+inicio.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9.  FORMA  JURÍDICA  Y  PUESTA  EN  MARCHA  
+9.1.  Elección  de  la  Forma  Jurídica  
+Nos  constituimos  como  Sociedad  de  Responsabilidad  Limitada  (S.L.) .  ¿Por  qué?  
+_________________________________________________________________________Pág  17  IQSTACK  _________________________________________________________________________  1.  Protección:  Limita  nuestra  responsabilidad.  Si  la  empresa  va  mal,  no  perdemos  
+nuestros
+ 
+ahorros
+ 
+personales
+ 
+ni
+ 
+nuestras
+ 
+ca
+ѕ
+a
+ѕ,
+ 
+solo
+ 
+los
+ 
+4.000
+ 
+€
+ 
+que
+ 
+pu
+ѕ
+imos.
+ 2.  Imagen:  Da  mucha  má ѕ  ѕ eriedad  ante  cliente ѕ  y  proveedores  que  ѕ er  una  
+"Comunidad
+ 
+de
+ 
+Biene
+ѕ".
+ 3.  Socios:  Es  la  forma  ideal  para  4  socios  que  quieren  tomar  deci ѕ ione ѕ  democrática ѕ.  
+9.2.  Trámites  de  Constitución  (La  Burocracia)  
+Para  que  IQSTACK  exista  legalmente,  seguiremos  estos  pasos  (Hoja  de  Ruta):  
+1.  Registro  Mercantil  Central:  Pedir  el  certificado  de  que  el  nombre  "IQSTACK  S.L."  
+está
+ 
+libre.
+ 2.  Banco:  Abrir  cuenta  y  depo ѕ itar  el  capital  ѕ ocial.  3.  Notario:  Firmar  la  Escritura  de  Con ѕ titución  (Estatutos).  4.  Hacienda  (AEAT):  Pedir  el  NIF  provi ѕ ional  y  darno ѕ  de  alta  en  el  IAE  (Epígrafe  de  
+ѕ
+ervicio
+ѕ
+ 
+informático
+ѕ).
+ 5.  Registro  Mercantil  de  Castellón:  Inscribir  la  empresa  oficialmente.  
+ 
+ 
+9.3.  Plan  de  Tesorería  y  Gestión  de  Caja  
+Má ѕ  importante  que  el  beneficio  contable  es  tener  dinero  en  el  banco  para  pagar  las  
+factura
+ѕ.
+ 
+Mucha
+ѕ
+ 
+empre
+ѕ
+a
+ѕ
+ 
+cierran
+ 
+siendo
+ 
+rentable
+ѕ
+ 
+porque
+ 
+ѕ
+é
+ 
+quedan
+ 
+sin
+ 
+liquidez
+ 
+(Ca
+ѕ
+h-flow).
+ 
+En  IQSTACK  hemo ѕ  elaborado  una  previ ѕ ión  de  te ѕ oreria  me ѕ  a  me ѕ  para  el  primer  año:  
+●  Cobros:  La  mayoria  de  nuestros  cliente ѕ  pagaran  mediante  ѕ u ѕ cripcion  men ѕ ual  
+automatica
+ 
+(tarjeta
+ 
+o
+ 
+domiciliacion).
+ 
+Esto
+ 
+no
+ѕ
+ 
+garantiza
+ 
+un
+ 
+flujo
+ 
+de
+ 
+caja
+ 
+con
+ѕ
+tante
+ 
+y
+ 
+predecible,
+ 
+reduciendo
+ 
+el
+ 
+rie
+ѕ
+go
+ 
+de
+ 
+impago
+ѕ
+ 
+que
+ 
+sufren
+ 
+otras
+ 
+empresas
+ 
+que
+ 
+cobran
+ 
+a
+ 
+90
+ 
+días.
+ ●  Pagos:  Hemo ѕ  negociado  con  provedore ѕ  pago ѕ  a  30  dia ѕ,  lo  que  no ѕ  permite  
+cobrar
+ 
+al
+ 
+cliente
+ 
+ante
+ѕ
+ 
+de
+ 
+tener
+ 
+que
+ 
+pagar
+ 
+no
+ѕ
+otro
+ѕ
+ 
+nuestro
+ѕ
+ 
+ga
+ѕ
+to
+ѕ,
+ 
+generando
+ 
+un
+ 
+Fondo
+ 
+de
+ 
+Maniobra
+ 
+positivo
+.
+ 
+Análisis  de  Ratios  Financieros:  Ba ѕ andono ѕ  en  nuestro  Balance  Previ ѕ ional:  
+1.  Ratio  de  Solvencia:  Nuestro ѕ  activo ѕ  ѕ uperan  ampliamente  a  las  deudas,  dado  que  
+la
+ 
+financiación
+ 
+inicial
+ 
+es
+ 
+capital
+ 
+propio
+ 
+(4.000€)
+ 
+y
+ 
+no
+ 
+deuda
+ 
+bancaria.
+ 
+ѕ
+omo
+ѕ
+ 
+una
+ 
+empresa
+ 
+ѕ
+olvent.
+ 2.  Ratio  de  Endeudamiento:  E ѕ  cercano  a  cero  en  el  arranque.  Esto  nos  da  una  gran  
+libertad
+ 
+financiera,
+ 
+ya
+ 
+que
+ 
+no
+ 
+trabajamo
+ѕ
+ 
+para
+ 
+pagar
+ 
+intereses
+ 
+al
+ 
+banco,
+ 
+sino
+ 
+para
+ 
+reinvertir
+ 
+en
+ 
+la
+ 
+empresa.
+ 
+ 
+_________________________________________________________________________Pág  18  IQSTACK  _________________________________________________________________________   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10.  CONCLUSIONES  
+Llegar  hasta  aquí  ha  sido  un  viaje  intenso  de  aprendizaje.  IQSTACK  comenzó  como  una  
+idea
+ 
+de
+ 
+clase
+ 
+en
+ 
+el
+ 
+instituto
+ 
+Joan
+ 
+Coromines
+ 
+y
+ 
+se
+ 
+ha
+ 
+transformado
+ 
+en
+ 
+un
+ 
+proyecto
+ 
+empresarial
+ 
+con
+ 
+cimientos
+ 
+sólidos.
+ 
+Tras  analizar  el  entorno,  definir  nuestra  estrategia  y  calcular  los  números,  extraemos  las  
+siguientes
+ 
+conclusiones
+ 
+finales:
+ 
+_________________________________________________________________________Pág  19  IQSTACK  _________________________________________________________________________  1.  Viabilidad  Técnica:  Es  posible  ofrecer  hosting  de  calidad  usando  herramientas  
+Open
+ 
+Source
+ 
+y
+ 
+energía
+ 
+renovable.
+ 
+No
+ 
+hace
+ 
+falta
+ 
+ser
+ 
+Google
+ 
+para
+ 
+dar
+ 
+un
+ 
+buen
+ 
+servicio.
+ 2.  Viabilidad  Económica:  Los  números  cuadran.  Al  mantener  una  estructura  de  costes  
+ligera
+ 
+(
+Lean
+ 
+Startup
+)
+ 
+y
+ 
+evitar
+ 
+endeudarnos
+ 
+con
+ 
+bancos,
+ 
+reducimos
+ 
+el
+ 
+riesgo
+ 
+de
+ 
+quiebra
+ 
+drásticamente.
+ 3.  Viabilidad  Social:  Hemos  validado  que  existe  un  cliente  (la  PYME  y  la  ONG)  que  
+valora
+ 
+no
+ 
+solo
+ 
+el
+ 
+precio,
+ 
+sino
+ 
+la
+ 
+ética
+ 
+y
+ 
+el
+ 
+trato
+ 
+humano.
+ 
+Este  TFG  nos  ha  enseñado  que  emprender  no  es  solo  tener  una  idea  feliz;  es  planificar,  
+calcular
+ 
+y,
+ 
+sobre
+ 
+todo,
+ 
+tener
+ 
+la
+ 
+capacidad
+ 
+de
+ 
+adaptarse.
+ 
+Estamos
+ 
+listos
+ 
+para
+ 
+intentar
+ 
+llevar
+ 
+IQSTACK
+ 
+a
+ 
+la
+ 
+realidad.
+ 
+ 
+Acelera  Pyme.  (s.f.).  Cómo  impulsar  tu  negocio  delegando  tareas  en  un  mundo  digital.  
+Gobierno  de  España.  
+https://www.acelerapyme.gob.es/novedades/evento/como-impulsar-tu-negocio-delegando-ta  
+reas-en-un-mundo-digital  
+Comisión  Europea.  (2024).  Pacto  Verde  Europeo:  Objetivos  de  neutralidad  climática  para  el  
+sector  digital.  
+https://ec.europa.eu/info/strategy/priorities-2019-2024/european-green-deal_es  
+Damodaran,  A.  (2012).  Investment  valuation:  Tools  and  techniques  for  determining  the  value  
+of  any  asset  (3.a  ed.).  Wiley  Finance.  
+Escuela  de  Internet.  (s.f.).  La  digitalización  de  las  pymes  españolas  sigue  avanzando  tras  la  
+pandemia.  
+https://www.escueladeinternet.com/la-digitalizacion-de-las-pymes-espanolas-sigue-avanzan  
+do-tras-la-pandemia/  
+Fortune  Business  Insights.  (s.f.).  Web  Hosting  Services  Market  Size,  Share  &  COVID-19  
+Impact  Analysis.  
+https://www.fortunebusinessinsights.com/es/industry-reports/web-hosting-services-market-1  
+00863  
+Gartner.  (2023).  Previsiones  de  crecimiento  del  mercado  de  Cloud  Computing  y  Hosting  
+_________________________________________________________________________Pág  20  IQSTACK  _________________________________________________________________________  Sostenible.  Gartner  IT  Glossary.  
+Generalitat  Valenciana.  (s.f.).  Ayudas  al  emprendimiento  juvenil.  Labora.  
+https://www.generalitat.es/es/web/labora  
+Gobierno  de  España.  (2025).  Programa  Kit  Digital:  Soluciones  de  ciberseguridad.  Red.es.  
+https://www.red.es/  
+IAB  Spain.  (2023).  Estudio  sobre  las  preferencias  de  consumo  sostenible  en  servicios  B2B  
+en  España.  https://iabspain.es/  
+IONOS.  (2022,  1  de  abril).  Green  hosting:  alojamiento  web  sostenible  con  energía  verde.  
+https://www.ionos.es/digitalguide/hosting/cuestiones-tecnicas/green-hosting/  
+Ministerio  de  Asuntos  Económicos  y  Transformación  Digital.  (2023).  Agenda  España  Digital  
+2026:  Avances  en  la  infraestructura  cloud  nacional.  Gobierno  de  España.  
+Mountain  Barcelona.  (2024,  8  de  febrero).  A  día  de  hoy,  ¿Cuántas  pymes  no  tienen  página  
+web  en  España?  
+https://www.mountainbarcelona.com/consultor-de-marketing/a-dia-de-hoy-cuantas-pymes-no  
+-tienen-pagina-web-en-espana-8-de-febrero-de-2024/  
+Núñez,  A.  (s.f.).  Green  startups:  La  nueva  tendencia  para  el  impacto  social  y  empresarial.  
+Emprendedores.biz.  
+https://emprendedores.biz/green-startups-la-nueva-tendencia-para-el-impacto-social-y-empr  
+esarial/  
+ 
+ONTSI.  (2024).  Informe  de  digitalización  de  las  pymes  2024.  Gobierno  de  España.  
+https://www.ontsi.es/es/publicaciones/Informedigitalizacionpymes2024  
+OVHcloud.  (s.f.).  Green  Hosting:  Alojamiento  web  ecológico.  
+https://www.ovhcloud.com/es-es/web-hosting/green-hosting/  
+Ries,  E.  (2011).  The  Lean  Startup:  How  today's  entrepreneurs  use  continuous  innovation  to  
+create  radically  successful  businesses.  Crown  Business.  
+_________________________________________________________________________Pág  21  IQSTACK  _________________________________________________________________________  Seguridad  Social.  (2026).  Tarifa  plana  para  autónomos  y  pequeñas  empresas.  Tesorería  de  
+la  Seguridad  Social.  https://www.seg-social.es/  
+Statista.  (2024).  Evolución  del  precio  de  la  energía  eléctrica  en  el  mercado  mayorista  en  
+España  (2021-2024).  https://es.statista.com/  
+The  Insight  Partners.  (s.f.).  Web  Hosting  Services  Market  to  2031.  
+https://www.theinsightpartners.com/es/reports/web-hosting-services-market  
+ 
+     
+_________________________________________________________________________Pág  22  

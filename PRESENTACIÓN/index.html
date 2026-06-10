@@ -1,0 +1,794 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>IQ STACK - Hosting Ecológico & Control Solar de Alto Rendimiento</title>
+  
+  <!-- SEO Meta Tags -->
+  <meta name="description" content="Presentación oficial de IQ STACK, la alternativa de hosting web sostenible alimentado por energía solar 100% verde y con soporte humano directo.">
+  <meta name="keywords" content="hosting ecologico, hosting solar, green hosting, iqstack, hosting sostenible">
+  <meta name="author" content="Unai Arnau, Marco Sorlí, Hugo Matías, Andrei Chivu">
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Outfit:wght@500;700;800&family=Roboto:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+  
+  <!-- Styles -->
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+  <!-- Background Animado 3D de Partículas -->
+  <canvas id="particle-canvas"></canvas>
+
+  <!-- Barra de progreso superior de las diapositivas -->
+  <div class="slide-progress-container" role="progressbar" aria-valuemin="0" aria-valuemax="100" id="slide-progress-container-outer">
+    <div id="slide-progress-bar"></div>
+  </div>
+
+  <!-- Encabezado Fijo -->
+  <header class="presentation-header">
+    <div class="logo-container" id="header-logo-group">
+      <div class="logo-icon">IQ</div>
+      <div class="logo-text">STACK</div>
+      <span class="badge-tag">Eco-Cloud</span>
+    </div>
+
+    <div class="slide-counter" id="slide-counter-badge">
+      <span id="slide-counter-val">1 / 10</span>
+    </div>
+  </header>
+
+  <!-- Puntos de Navegación Lateral (Clickables) -->
+  <nav class="side-dots-navigation" id="slide-dots-container" aria-label="Navegación de diapositivas"></nav>
+
+  <!-- Contenedor de Diapositivas SPA -->
+  <main class="slides-viewport" id="presentation-viewport">
+
+    <!-- DIAPOSITIVA 1: PORTADA -->
+    <section class="slide-section active" id="slide-1" aria-labelledby="slide-1-title">
+      <div class="slide-container">
+        <div></div> <!-- Espacio superior -->
+        <div class="split-slide-grid">
+          
+          <!-- Columna Izquierda: Web/Comercial -->
+          <div class="slide-col-web">
+            <span class="col-header-badge badge-web">💻 Propuesta Comercial</span>
+            <h1 class="hero-main-title" id="slide-1-title" style="font-size:3.8rem; margin-bottom: 5px;">IQ STACK</h1>
+            <p class="hero-slogan" style="font-size:1.3rem;">Hosting Ecológico & Control Solar de Alto Rendimiento.</p>
+            <p class="hero-quote" style="margin-bottom: 20px;">"Tecnología que funciona, valores que importan."</p>
+            
+            <div class="cube-viewport" id="server-cube-container" aria-label="Modelo 3D interactivo de servidor solar. Arrastra para rotar.">
+              <div class="cube-3d" id="server-cube">
+                <div class="cube-face face-front">
+                  <span class="cube-brand">IQ STACK v1.0</span>
+                  <div class="server-rack-lines">
+                    <div class="server-slot">
+                      <div class="light-led light-green"></div>
+                      <div class="slot-lights"><div class="light-led light-green"></div><div class="light-led light-green" style="animation-delay: 0.2s"></div></div>
+                    </div>
+                    <div class="server-slot">
+                      <div class="light-led light-green"></div>
+                      <div class="slot-lights"><div class="light-led light-amber" style="animation-delay: 0.1s"></div><div class="light-led light-green" style="animation-delay: 0.3s"></div></div>
+                    </div>
+                  </div>
+                </div>
+                <div class="cube-face face-back">
+                  <span class="cube-brand" style="color: var(--color-accent-amber);">BATTERY STACK</span>
+                  <div style="flex-grow:1; display:flex; flex-direction:column; justify-content:center; gap:8px;">
+                    <div style="height:12px; border:1px solid var(--color-accent-amber); border-radius:3px; overflow:hidden;">
+                      <div style="width: 85%; height:100%; background: var(--color-accent-amber); box-shadow: 0 0 8px var(--color-accent-amber);"></div>
+                    </div>
+                  </div>
+                </div>
+                <div class="cube-face face-right">
+                  <span class="cube-brand" style="color: #3B82F6;">SOLAR INPUTS</span>
+                  <div class="cube-solar-panel">
+                    <div class="solar-cell"></div><div class="solar-cell"></div><div class="solar-cell"></div><div class="solar-cell"></div>
+                    <div class="solar-cell"></div><div class="solar-cell"></div><div class="solar-cell"></div><div class="solar-cell"></div>
+                  </div>
+                </div>
+                <div class="cube-face face-left">
+                  <span class="cube-brand">MONITOR</span>
+                  <div style="font-size: 8px; font-family: monospace; color: var(--color-accent-emerald); line-height: 1.2;">
+                    > CPU: 12%<br>
+                    > LOAD: ECO_MODE<br>
+                    > SOLAR: 92%
+                  </div>
+                </div>
+                <div class="cube-face face-top"></div>
+                <div class="cube-face face-bottom"></div>
+              </div>
+            </div>
+          </div>
+          
+          <!-- Columna Derecha: TFG -->
+          <div class="slide-col-tfg">
+            <span class="col-header-badge badge-tfg">🎓 Memoria Académica</span>
+            <div class="glass-card col-tfg-card">
+              <h3 class="col-main-title" style="color: var(--color-accent-amber);">Proyecto Joan Coromines</h3>
+              <p style="font-size:0.85rem; color:var(--color-text-secondary); line-height:1.5; margin-bottom:12px;">
+                Esta iniciativa nace de la necesidad de plantear una alternativa viable al hosting convencional. Se encuadra como el Trabajo de Fin de Grado (TFG) de estudiantes de Sistemas Microinformáticos y Redes.
+              </p>
+              <p style="font-size:0.85rem; color:var(--color-text-secondary); line-height:1.5; margin-bottom:12px;">
+                El proyecto abarca el dimensionamiento fotovoltaico, la optimización lógica de sistemas abiertos, y el análisis financiero y legal para constituir una sociedad comercial real en el Baix Maestrat.
+              </p>
+              <p style="font-size:0.85rem; color:var(--color-accent-emerald); font-weight:600; font-style:italic;">
+                "Un modelo donde la ecología B2B se sustenta sobre la economía circular y la robustez de la arquitectura limpia."
+              </p>
+            </div>
+          </div>
+          
+        </div>
+        <div></div> <!-- Espacio inferior -->
+      </div>
+    </section>
+
+    <!-- DIAPOSITIVA 2: EL PROBLEMA -->
+    <section class="slide-section" id="slide-2" aria-labelledby="slide-2-title">
+      <div class="slide-container">
+        <header class="slide-header">
+          <span class="slide-subtitle">La Desconexión del Sector Digital</span>
+          <h2 class="slide-title" id="slide-2-title">El Problema</h2>
+        </header>
+        <div class="split-slide-grid">
+          
+          <!-- Columna Izquierda: Web/Comercial -->
+          <div class="slide-col-web">
+            <span class="col-header-badge badge-web">💻 Barreras del Cliente</span>
+            <div style="display:flex; flex-direction:column; gap:12px; width:100%;">
+              <div class="glass-card col-web-card" style="padding:10px var(--spacing-sm);">
+                <h4 style="font-size:1rem; color:var(--color-text-primary); margin-bottom:2px;">1. Huella de Carbono Invisible</h4>
+                <p style="font-size:0.8rem; color:var(--color-text-secondary);">La nube tradicional consume combustibles fósiles. Internet contamina igual que la aviación mundial.</p>
+              </div>
+              <div class="glass-card col-web-card" style="padding:10px var(--spacing-sm);">
+                <h4 style="font-size:1rem; color:var(--color-text-primary); margin-bottom:2px;">2. Soporte Deshumanizado</h4>
+                <p style="font-size:0.8rem; color:var(--color-text-secondary);">Chatbots infinitos e interfaces frías que frustran a comercios y ONGs ante caídas del servicio.</p>
+              </div>
+              <div class="glass-card col-web-card" style="padding:10px var(--spacing-sm);">
+                <h4 style="font-size:1rem; color:var(--color-text-primary); margin-bottom:2px;">3. Complejidad y Temor Técnico</h4>
+                <p style="font-size:0.8rem; color:var(--color-text-secondary);">Interfaces incomprensibles llenas de terminología abrumadora para usuarios locales.</p>
+              </div>
+            </div>
+          </div>
+
+          <!-- Columna Derecha: TFG -->
+          <div class="slide-col-tfg">
+            <span class="col-header-badge badge-tfg">🎓 Justificación del Entorno</span>
+            <div class="glass-card col-tfg-card">
+              <h3 class="col-main-title" style="color:var(--color-accent-amber);">Brecha en el Baix Maestrat</h3>
+              <p style="font-size:0.82rem; color:var(--color-text-secondary); line-height:1.45; margin-bottom:10px;">
+                El análisis del tejido local en Benicarló revela que las PYMEs (tiendas, panaderías, despachos) temen migrar a la nube por falta de conocimientos y desconfianza en el soporte digital corporativo.
+              </p>
+              <p style="font-size:0.82rem; color:var(--color-text-secondary); line-height:1.45; margin-bottom:10px;">
+                Los grandes proveedores de hosting ignoran esta desconexión humana y ecológica, compitiendo exclusivamente en precios de gancho. IQSTACK nace para resolver esta doble problemática combinando cercanía y hosting verde real.
+              </p>
+              <div class="legend-item" style="font-size:11px; font-weight:600; color:var(--color-accent-amber); background:rgba(245,158,11,0.05); padding:6px; border-radius:4px;">
+                📢 Hecho: El 80% de los usuarios locales valora hablar con técnicos antes que pagar la tarifa más baja.
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- DIAPOSITIVA 3: LA SOLUCIÓN -->
+    <section class="slide-section" id="slide-3" aria-labelledby="slide-3-title">
+      <div class="slide-container">
+        <header class="slide-header">
+          <span class="slide-subtitle">Nuestra Propuesta de Valor Sostenible</span>
+          <h2 class="slide-title" id="slide-3-title">La Solución</h2>
+        </header>
+        <div class="split-slide-grid">
+          
+          <!-- Columna Izquierda: Web/Comercial -->
+          <div class="slide-col-web">
+            <span class="col-header-badge badge-web">💻 Simulador de Ahorro</span>
+            <div class="glass-card" style="margin-bottom:10px; padding:10px 15px; border-color:rgba(16, 185, 129, 0.25);">
+              <div class="sim-slider-container">
+                <div class="slider-label-row" style="font-size:0.85rem;">
+                  <span>Tráfico Mensual:</span>
+                  <span id="slider-val-display" style="color:var(--color-accent-emerald);">25.000 visitas</span>
+                </div>
+                <input type="range" min="1000" max="100000" step="1000" value="25000" class="custom-range" id="visitor-slider" oninput="document.getElementById('slider-val-display').textContent = parseInt(this.value).toLocaleString('es-ES') + ' visitas'; IQSTACK_CHARTS.updateSimulatorUI(parseInt(this.value))" aria-label="Deslizador de visitas mensuales">
+              </div>
+            </div>
+            
+            <div class="glass-card simulator-results" style="padding:10px 15px; border-color: rgba(16, 185, 129, 0.25);">
+              <div class="metric-result-row">
+                <div class="result-icon-box" style="width:36px; height:36px; font-size:1.1rem;">🌱</div>
+                <div class="result-data-box">
+                  <div class="result-val" id="sim-saved-co2" style="font-size:1.3rem;">0 kg</div>
+                  <div class="result-lbl" style="font-size:0.75rem;">CO₂ evitado/mes</div>
+                </div>
+              </div>
+              <div class="metric-result-row">
+                <div class="result-icon-box" style="width:36px; height:36px; font-size:1.1rem;">🌳</div>
+                <div class="result-data-box">
+                  <div class="result-val" id="sim-trees" style="font-size:1.3rem;">0</div>
+                  <div class="result-lbl" style="font-size:0.75rem;">Árboles equivalentes</div>
+                </div>
+              </div>
+              <div class="metric-result-row">
+                <div class="result-icon-box" style="width:36px; height:36px; font-size:1.1rem;">⚡</div>
+                <div class="result-data-box">
+                  <div class="result-val" id="sim-energy" style="font-size:1.3rem;">0 kWh</div>
+                  <div class="result-lbl" style="font-size:0.75rem;">Energía solar autogenerada</div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Columna Derecha: TFG -->
+          <div class="slide-col-tfg">
+            <span class="col-header-badge badge-tfg">🎓 Niveles de Producto</span>
+            <div class="tfg-details-container">
+              <div class="glass-card col-tfg-card" style="padding:10px var(--spacing-sm); border-left-color:var(--color-accent-amber);">
+                <h4 style="font-size:0.88rem; color:var(--color-text-primary); margin-bottom:2px;">1. Producto Básico & Alojamiento</h4>
+                <p style="font-size:0.75rem; color:var(--color-text-secondary);">Hosting estable con redundancia de disco y backups automáticos.</p>
+              </div>
+              <div class="glass-card col-tfg-card" style="padding:10px var(--spacing-sm); border-left-color:var(--color-accent-amber);">
+                <h4 style="font-size:0.88rem; color:var(--color-text-primary); margin-bottom:2px;">2. Producto Formal (Valor RSC)</h4>
+                <p style="font-size:0.75rem; color:var(--color-text-secondary);">Dominio, SSL y panel con gráficas del impacto ecológico real del cliente.</p>
+              </div>
+              <div class="glass-card col-tfg-card" style="padding:10px var(--spacing-sm); border-left-color:var(--color-accent-amber);">
+                <h4 style="font-size:0.88rem; color:var(--color-text-primary); margin-bottom:2px;">3. Producto Aumentado (Humano)</h4>
+                <p style="font-size:0.75rem; color:var(--color-text-secondary);">Formación de 1 hora y tutoría mensual por videollamada directa.</p>
+              </div>
+              <div class="glass-card" style="padding:8px var(--spacing-sm); border-color:rgba(16,185,129,0.2);">
+                <h4 style="font-size:0.85rem; color:var(--color-accent-emerald); margin-bottom:2px;">Eco-Diseño Lógico</h4>
+                <p style="font-size:0.72rem; color:var(--color-text-secondary); line-height:1.3;">
+                  Plantillas minimalistas en modo oscuro que optimizan la transferencia de datos y ciclos de CPU del cliente, reduciendo el consumo de batería y de red.
+                </p>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- DIAPOSITIVA 4: INFRAESTRUCTURA ECOLÓGICA -->
+    <section class="slide-section" id="slide-4" aria-labelledby="slide-4-title">
+      <div class="slide-container">
+        <header class="slide-header">
+          <span class="slide-subtitle">El Flujo de Energía Sostenible</span>
+          <h2 class="slide-title" id="slide-4-title">Infraestructura Ecológica</h2>
+        </header>
+        <div class="split-slide-grid">
+          
+          <!-- Columna Izquierda: Web/Comercial -->
+          <div class="slide-col-web">
+            <span class="col-header-badge badge-web">💻 Flujo de la Energía Solar</span>
+            
+            <div class="glass-card flow-chart-container" style="padding: 10px 0;">
+              <div class="flow-line-bg"></div>
+              <div class="flow-line-active"></div>
+              
+              <div class="flow-node" onclick="document.getElementById('flow-desc-box').textContent = 'El Sol: Captura de energía fotovoltaica local en Benicarló para alimentar la instalación a coste energético cero.'">
+                <div class="node-circle" style="width:40px; height:40px; font-size:1.1rem; border-color:var(--color-accent-amber);">☀️</div>
+                <span class="node-label" style="font-size:0.75rem; margin-top:4px;">Sol</span>
+              </div>
+              
+              <div class="flow-node" onclick="document.getElementById('flow-desc-box').textContent = 'Placas Solares: Conversión limpia mediante paneles solares dedicados integrados con el sistema de carga del rack.'">
+                <div class="node-circle" style="width:40px; height:40px; font-size:1.1rem;">🔌</div>
+                <span class="node-label" style="font-size:0.75rem; margin-top:4px;">Placas</span>
+              </div>
+              
+              <div class="flow-node" onclick="document.getElementById('flow-desc-box').textContent = 'Baterías: Acumuladores de litio ferrofosfato para dotar al data center de 24 horas de autonomía y mitigar caídas nocturnas.'">
+                <div class="node-circle" style="width:40px; height:40px; font-size:1.1rem; border-color:var(--color-accent-amber);">🔋</div>
+                <span class="node-label" style="font-size:0.75rem; margin-top:4px;">Baterías</span>
+              </div>
+              
+              <div class="flow-node" onclick="document.getElementById('flow-desc-box').textContent = 'Servidores: Hardware Dell/HP reacondicionado ejecutando sistemas ligeros optimizados con Linux.'">
+                <div class="node-circle" style="width:40px; height:40px; font-size:1.1rem;">🖥️</div>
+                <span class="node-label" style="font-size:0.75rem; margin-top:4px;">Servidores</span>
+              </div>
+            </div>
+
+            <div class="glass-card" style="padding: 8px 12px; border-color: rgba(245, 158, 11, 0.15); min-height: 50px; display:flex; align-items:center; justify-content:center; text-align:center; margin-bottom:10px;">
+              <p id="flow-desc-box" style="font-size: 0.8rem; font-style: italic; color: var(--color-accent-amber);">
+                Haz clic en cada nodo del flujo para conocer en detalle su implicación ecológica.
+              </p>
+            </div>
+
+            <div class="glass-card tech-detail-card" style="padding: 10px; border-top-color: var(--color-accent-emerald);">
+              <h4 style="font-size:0.9rem; margin-bottom:2px;">Hardware Reacondicionado (Economía Circular)</h4>
+              <p style="font-size:0.75rem; color:var(--color-text-secondary);">Adquirimos servidores empresariales descatalogados. Extendemos su ciclo de vida y evitamos las emisiones de fabricar silicio nuevo.</p>
+            </div>
+          </div>
+
+          <!-- Columna Derecha: TFG -->
+          <div class="slide-col-tfg">
+            <span class="col-header-badge badge-tfg">🎓 Topología y Redes</span>
+            
+            <div class="tfg-diagram-wrapper" onclick="document.getElementById('diagram-modal').classList.add('open')" title="Hacer clic para ampliar topología de red">
+              <img src="INFO/redproyecto_Andrei_Hugo_Marco_Unai.drawio.png" class="tfg-diagram-img" alt="Topología de Red IQSTACK">
+              <div style="font-size:9px; color:var(--color-text-secondary); text-align:center; padding: 4px; border-top:1px solid var(--color-border); background: rgba(0,0,0,0.2);">
+                🔍 Hacer clic para ampliar diagrama de red (TFG)
+              </div>
+            </div>
+            
+            <div class="glass-card col-tfg-card" style="margin-top:10px; padding:10px; border-left-color:var(--color-accent-amber);">
+              <h4 style="font-size:0.85rem; color:var(--color-text-primary); margin-bottom:2px;">Mitigación y Ciberseguridad</h4>
+              <p style="font-size:0.72rem; color:var(--color-text-secondary); line-height:1.35;">
+                La topología implementa un aislamiento físico (VLANs) que separa el bus de control fotovoltaico de la red de datos del hosting, previniendo accesos al regulador de carga desde internet (auditoría perimetral por Hugo).
+              </p>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- DIAPOSITIVA 5: EL EQUIPO PROMOTOR -->
+    <section class="slide-section" id="slide-5" aria-labelledby="slide-5-title">
+      <div class="slide-container">
+        <header class="slide-header">
+          <span class="slide-subtitle">Perfiles Complementarios y Factor Humano</span>
+          <h2 class="slide-title" id="slide-5-title">El Equipo Promotor</h2>
+        </header>
+        <div class="split-slide-grid">
+          
+          <!-- Columna Izquierda: Web/Comercial -->
+          <div class="slide-col-web">
+            <span class="col-header-badge badge-web">💻 Estructura Scrum del Equipo</span>
+            
+            <div class="team-grid-split">
+              <!-- Unai -->
+              <div class="team-card-split">
+                <div class="team-avatar-box-split">
+                  <svg viewBox="0 0 100 100" class="team-avatar-svg-split">
+                    <circle cx="50" cy="38" r="18" fill="var(--color-accent-emerald)" opacity="0.8"/>
+                    <path d="M 22 78 A 28 28 0 0 1 78 78 Z" fill="var(--color-accent-emerald)" opacity="0.8"/>
+                  </svg>
+                </div>
+                <div class="team-info-split">
+                  <span class="team-name-split">Unai Arnau</span>
+                  <span class="team-role-split">CEO / PO</span>
+                  <span class="team-spec-split">DevOps & Linux</span>
+                </div>
+              </div>
+
+              <!-- Marco -->
+              <div class="team-card-split">
+                <div class="team-avatar-box-split">
+                  <svg viewBox="0 0 100 100" class="team-avatar-svg-split">
+                    <circle cx="50" cy="38" r="18" fill="var(--color-accent-amber)" opacity="0.8"/>
+                    <path d="M 22 78 A 28 28 0 0 1 78 78 Z" fill="var(--color-accent-amber)" opacity="0.8"/>
+                  </svg>
+                </div>
+                <div class="team-info-split">
+                  <span class="team-name-split">Marco Sorlí</span>
+                  <span class="team-role-split">CTO / Dev</span>
+                  <span class="team-spec-split">AI & SQLite Backend</span>
+                </div>
+              </div>
+
+              <!-- Hugo -->
+              <div class="team-card-split">
+                <div class="team-avatar-box-split">
+                  <svg viewBox="0 0 100 100" class="team-avatar-svg-split">
+                    <circle cx="50" cy="38" r="18" fill="var(--color-accent-emerald)" opacity="0.8"/>
+                    <path d="M 22 78 A 28 28 0 0 1 78 78 Z" fill="var(--color-accent-emerald)" opacity="0.8"/>
+                  </svg>
+                </div>
+                <div class="team-info-split">
+                  <span class="team-name-split">Hugo Matías</span>
+                  <span class="team-role-split">CMO / Dev</span>
+                  <span class="team-spec-split">Ciberseguridad</span>
+                </div>
+              </div>
+
+              <!-- Andrei -->
+              <div class="team-card-split">
+                <div class="team-avatar-box-split">
+                  <svg viewBox="0 0 100 100" class="team-avatar-svg-split">
+                    <circle cx="50" cy="38" r="18" fill="var(--color-accent-amber)" opacity="0.8"/>
+                    <path d="M 22 78 A 28 28 0 0 1 78 78 Z" fill="var(--color-accent-amber)" opacity="0.8"/>
+                  </svg>
+                </div>
+                <div class="team-info-split">
+                  <span class="team-name-split">Andrei Chivu</span>
+                  <span class="team-role-split">CFO / Dev</span>
+                  <span class="team-spec-split">Finanzas & Legal</span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Columna Derecha: TFG -->
+          <div class="slide-col-tfg">
+            <span class="col-header-badge badge-tfg">🎓 Metodología de Trabajo</span>
+            
+            <div class="tfg-details-container">
+              <div class="dafo-grid" style="grid-template-columns: 1fr; gap:8px;">
+                <div class="glass-card col-tfg-card" style="padding: 8px 12px; border-left-color:var(--color-accent-amber);">
+                  <h4 style="font-size:0.85rem; color:var(--color-text-primary); margin-bottom:2px;">Sprint Planning & Ceremonias</h4>
+                  <p style="font-size:0.72rem; color:var(--color-text-secondary); line-height:1.3;">
+                    Cada 2 semanas seleccionamos tareas del Backlog. Hacemos **Daily Stand-ups de 15 minutos** respondiendo: ¿Qué hice?, ¿Qué haré hoy? y ¿Qué me bloquea? para evitar la burocracia inútil.
+                  </p>
+                </div>
+                
+                <div class="glass-card col-tfg-card" style="padding: 8px 12px; border-left-color:var(--color-accent-amber);">
+                  <h4 style="font-size:0.85rem; color:var(--color-text-primary); margin-bottom:2px;">Sprint Review & Retrospectiva</h4>
+                  <p style="font-size:0.72rem; color:var(--color-text-secondary); line-height:1.3;">
+                    Al final de cada ciclo, evaluamos el entregable y celebramos la retrospectiva para mejorar la coordinación del equipo promotor y resolver cuellos de botella técnicos.
+                  </p>
+                </div>
+              </div>
+
+              <div class="glass-card" style="padding:6px 12px; border-color:rgba(16,185,129,0.2); text-align:center;">
+                <p style="font-size:0.72rem; color:var(--color-text-secondary);">
+                  🛠️ **Trello** (Tablero Kanban de tareas) + **Slack** (Canales de desarrollo) como soporte operativo ágil.
+                </p>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- DIAPOSITIVA 6: ARQUITECTURA TÉCNICA -->
+    <section class="slide-section" id="slide-6" aria-labelledby="slide-6-title">
+      <div class="slide-container">
+        <header class="slide-header">
+          <span class="slide-subtitle">Separación de Responsabilidades y Portabilidad</span>
+          <h2 class="slide-title" id="slide-6-title">Arquitectura y Robustez</h2>
+        </header>
+        <div class="split-slide-grid">
+          
+          <!-- Columna Izquierda: Web/Comercial -->
+          <div class="slide-col-web">
+            <span class="col-header-badge badge-web">💻 Capas del Sistema (SoC)</span>
+            
+            <div class="arch-layers-list">
+              <div class="glass-card arch-layer-card active" onclick="document.querySelectorAll('.arch-layer-card').forEach(c => c.classList.remove('active')); this.classList.add('active'); document.getElementById('arch-viz-desc-split').textContent = 'Frontend reactivo y ultra-ligero sin frameworks pesados, minimizando el consumo de red.'; document.getElementById('arch-cube-split').style.transform = 'rotateY(45deg) scale(1.05)';">
+                <div class="arch-layer-header">
+                  <h4 class="arch-layer-title" style="font-size:0.9rem;">1. Presentación (UI reactiva)</h4>
+                </div>
+              </div>
+              <div class="glass-card arch-layer-card" onclick="document.querySelectorAll('.arch-layer-card').forEach(c => c.classList.remove('active')); this.classList.add('active'); document.getElementById('arch-viz-desc-split').textContent = 'El Wrapper intermedio aísla la lógica ante cambios imprevistos en librerías externas.'; document.getElementById('arch-cube-split').style.transform = 'rotateX(45deg) rotateZ(45deg) scale(1.1)';">
+                <div class="arch-layer-header">
+                  <h4 class="arch-layer-title" style="font-size:0.9rem;">2. API e Interfaces Desacopladas</h4>
+                </div>
+              </div>
+              <div class="glass-card arch-layer-card" onclick="document.querySelectorAll('.arch-layer-card').forEach(c => c.classList.remove('active')); this.classList.add('active'); document.getElementById('arch-viz-desc-split').textContent = 'Persistencia robusta en SQLite local para despliegues rápidos y backups sencillos.'; document.getElementById('arch-cube-split').style.transform = 'translateY(10px) scale(0.9)';">
+                <div class="arch-layer-header">
+                  <h4 class="arch-layer-title" style="font-size:0.9rem;">3. Datos (SQLite portable)</h4>
+                </div>
+              </div>
+            </div>
+
+            <div class="glass-card arch-viz-card" style="padding: 10px; margin-top:10px;">
+              <div class="cube-wireframe-placeholder" id="arch-cube-split" style="width:100px; height:100px; margin-bottom:5px;">
+                <div class="db-cylinder" style="width:30px; height:36px; border-radius: 50% / 8px;"></div>
+              </div>
+              <p id="arch-viz-desc-split" style="font-size: 0.75rem; color: var(--color-text-secondary); font-style: italic;">
+                Haz clic en cada capa de la izquierda para ver su rol.
+              </p>
+            </div>
+          </div>
+
+          <!-- Columna Derecha: TFG -->
+          <div class="slide-col-tfg">
+            <span class="col-header-badge badge-tfg">🎓 Persistencia en Ficheros (.db)</span>
+            
+            <div class="tfg-details-container">
+              <div class="glass-card col-tfg-card" style="padding:10px; border-left-color:var(--color-accent-amber);">
+                <h4 style="font-size:0.85rem; color:var(--color-text-primary); margin-bottom:2px;">Ventajas de SQLite Portable</h4>
+                <p style="font-size:0.75rem; color:var(--color-text-secondary); line-height:1.4; margin-bottom:8px;">
+                  *Cero overhead de red:* SQLite no abre sockets TCP locales como Postgres, ahorrando hilos del microprocesador y energía de la CPU del servidor.
+                </p>
+                <p style="font-size:0.75rem; color:var(--color-text-secondary); line-height:1.4;">
+                  *Backups Binarios:* Copiar y respaldar la base de datos es un proceso a nivel de sistema de archivos inmediato, evitando volcados pesados que saturan el disco.
+                </p>
+              </div>
+              
+              <div class="glass-card col-tfg-card" style="padding:10px; border-left-color:var(--color-accent-amber);">
+                <h4 style="font-size:0.85rem; color:var(--color-text-primary); margin-bottom:2px;">Portabilidad</h4>
+                <p style="font-size:0.75rem; color:var(--color-text-secondary); line-height:1.4;">
+                  Toda la base de datos del cliente reside en un único archivo físico. Las migraciones entre servidores fotovoltaicos se realizan en segundos vía comandos estándar `scp`.
+                </p>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- DIAPOSITIVA 7: MERCADO Y DIFERENCIACIÓN -->
+    <section class="slide-section" id="slide-7" aria-labelledby="slide-7-title">
+      <div class="slide-container">
+        <header class="slide-header">
+          <span class="slide-subtitle">Matriz Comparativa y Análisis Estratégico</span>
+          <h2 class="slide-title" id="slide-7-title">Mercado y Competencia</h2>
+        </header>
+        <div class="split-slide-grid">
+          
+          <!-- Columna Izquierda: Web/Comercial -->
+          <div class="slide-col-web">
+            <span class="col-header-badge badge-web">💻 Matriz DAFO de IQSTACK</span>
+            
+            <div class="dafo-grid" style="grid-template-columns: 1fr 1fr; gap:6px; font-size:0.75rem;">
+              <div class="glass-card dafo-quadrant f" style="padding: 8px;">
+                <h4 class="dafo-title" style="font-size:0.85rem; color:var(--color-accent-emerald); margin-bottom:2px;">💪 Fortalezas</h4>
+                <p style="color:var(--color-text-secondary); font-size:0.7rem;">Energía solar propia, costes mínimos, Scrum ágil.</p>
+              </div>
+              <div class="glass-card dafo-quadrant d" style="padding: 8px;">
+                <h4 class="dafo-title" style="font-size:0.85rem; color:#EF4444; margin-bottom:2px;">⚠️ Debilidades</h4>
+                <p style="color:var(--color-text-secondary); font-size:0.7rem;">Marca nueva, recursos iniciales propios limitados.</p>
+              </div>
+              <div class="glass-card dafo-quadrant o" style="padding: 8px;">
+                <h4 class="dafo-title" style="font-size:0.85rem; color:var(--color-accent-amber); margin-bottom:2px;">📈 Oportunidades</h4>
+                <p style="color:var(--color-text-secondary); font-size:0.7rem;">Demanda Green Hosting B2B, ayudas Kit Digital.</p>
+              </div>
+              <div class="glass-card dafo-quadrant a" style="padding: 8px;">
+                <h4 class="dafo-title" style="font-size:0.85rem; color:#3B82F6; margin-bottom:2px;">⚡ Amenazas</h4>
+                <p style="color:var(--color-text-secondary); font-size:0.7rem;">Guerra comercial low-cost, aumento de ciberataques.</p>
+              </div>
+            </div>
+          </div>
+
+          <!-- Columna Derecha: TFG -->
+          <div class="slide-col-tfg">
+            <span class="col-header-badge badge-tfg">🎓 Estrategia Porter & PESTEL</span>
+            
+            <div class="tfg-details-container">
+              <div class="glass-card col-tfg-card" style="padding: 8px 12px; border-left-color:var(--color-accent-amber);">
+                <h4 style="font-size:0.85rem; color:var(--color-text-primary); margin-bottom:2px;">Análisis PESTEL (Económico & Legal)</h4>
+                <p style="font-size:0.72rem; color:var(--color-text-secondary); line-height:1.35;">
+                  *Leyes:* Alineados con el Pacto Verde Europeo. Las ayudas de España Digital 2026 subsidian la digitalización de pymes locales.
+                  *Luz:* La instalación solar anula la dependencia del mercado de energía mayorista volátil.
+                </p>
+              </div>
+              
+              <div class="glass-card col-tfg-card" style="padding: 8px 12px; border-left-color:var(--color-accent-amber);">
+                <h4 style="font-size:0.85rem; color:var(--color-text-primary); margin-bottom:2px;">Estrategia de Mitigación Porter</h4>
+                <p style="font-size:0.72rem; color:var(--color-text-secondary); line-height:1.35; margin-bottom:4px;">
+                  *Rivalidad:* Evitamos guerra de precios. Ofrecemos videollamadas mensuales.
+                </p>
+                <p style="font-size:0.72rem; color:var(--color-text-secondary); line-height:1.35;">
+                  *Sustitutos (Wix/Shopify):* Mitigamos su impacto educando al cliente sobre la importancia de ser propietario de sus archivos y no estar atado a "jardines cerrados".
+                </p>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- DIAPOSITIVA 8: NÚMEROS FINANCIEROS -->
+    <section class="slide-section" id="slide-8" aria-labelledby="slide-8-title">
+      <div class="slide-container">
+        <header class="slide-header">
+          <span class="slide-subtitle">Capital Social, Presupuesto y Viabilidad</span>
+          <h2 class="slide-title" id="slide-8-title">Sostenibilidad Financiera</h2>
+        </header>
+        <div class="split-slide-grid">
+          
+          <!-- Columna Izquierda: Web/Comercial -->
+          <div class="slide-col-web">
+            <span class="col-header-badge badge-web">💻 Distribución & Break-Even</span>
+            
+            <div style="display:flex; gap:10px; width:100%; align-items:center;">
+              <div id="budget-chart-container" style="width:130px; height:130px; flex-shrink:0;"></div>
+              
+              <div style="font-size:0.72rem; color:var(--color-text-secondary); line-height:1.35;">
+                <span style="color:var(--color-accent-emerald); font-weight:bold;">Presupuesto de 4.000€:</span><br>
+                • 60% Hardware y placas solares<br>
+                • 15% Notaría, legal y registro<br>
+                • 15% Campaña marketing SEM<br>
+                • 10% Fondo de Maniobra inicial
+              </div>
+            </div>
+
+            <div id="breakeven-chart-container" style="width:100%; height:130px; margin-top:8px;"></div>
+          </div>
+
+          <!-- Columna Derecha: TFG -->
+          <div class="slide-col-tfg">
+            <span class="col-header-badge badge-tfg">🎓 Previsión de Tesorería (12 Meses)</span>
+            
+            <div class="tfg-details-container">
+              <div class="tfg-table-wrapper">
+                <table class="tfg-financial-table">
+                  <thead>
+                    <tr>
+                      <th>Mes</th>
+                      <th>Gastos Acum.</th>
+                      <th>Ventas Acum.</th>
+                      <th>Estado</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr><td>Mes 1</td><td>7.800 €</td><td>10 €</td><td>Pérdida</td></tr>
+                    <tr><td>Mes 3</td><td>8.400 €</td><td>1.410 €</td><td>Pérdida</td></tr>
+                    <tr><td>Mes 6</td><td>9.300 €</td><td>4.510 €</td><td>Pérdida</td></tr>
+                    <tr><td>Mes 9</td><td>10.200 €</td><td>8.010 €</td><td>Pérdida</td></tr>
+                    <tr class="cross-row"><td>Mes 11</td><td>10.800 €</td><td>10.610 €</td><td>Cruce (Aprox)</td></tr>
+                    <tr class="profit-row"><td>Mes 12</td><td>11.100 €</td><td>12.010 €</td><td>Beneficio</td></tr>
+                  </tbody>
+                </table>
+              </div>
+              
+              <div class="glass-card col-tfg-card" style="padding:8px 12px; border-left-color:var(--color-accent-amber); font-size:0.72rem; line-height:1.35;">
+                • **Beneficio Año 1:** 5.036 € netos reinvertibles en celdas de batería solar.<br>
+                • **Ratios:** Endeudamiento nulo. Solvencia excelente al financiarse exclusivamente mediante capital propio (4.000€) y campaña de Crowdfunding/Preventas locales (3.800€).
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- DIAPOSITIVA 9: IMPACTO SOCIAL -->
+    <section class="slide-section" id="slide-9" aria-labelledby="slide-9-title">
+      <div class="slide-container">
+        <header class="slide-header">
+          <span class="slide-subtitle">Tecnología con Propósito Comunitario</span>
+          <h2 class="slide-title" id="slide-9-title">Impacto Social</h2>
+        </header>
+        <div class="split-slide-grid">
+          
+          <!-- Columna Izquierda: Web/Comercial -->
+          <div class="slide-col-web">
+            <span class="col-header-badge badge-web">💻 Valores Sociales & Inclusión</span>
+            
+            <div style="display:flex; flex-direction:column; gap:10px; width:100%;">
+              <div class="glass-card col-web-card" style="padding:10px; border-left-color:var(--color-accent-emerald);">
+                <h4 style="font-size:0.9rem; margin-bottom:2px;">Colaboración con ONGs</h4>
+                <p style="font-size:0.75rem; color:var(--color-text-secondary);">Tarifas sociales del 20% de descuento y apoyo técnico prioritario en campañas.</p>
+              </div>
+              <div class="glass-card col-web-card" style="padding:10px; border-left-color:var(--color-accent-emerald);">
+                <h4 style="font-size:0.9rem; margin-bottom:2px;">Acompañamiento a Comercios</h4>
+                <p style="font-size:0.75rem; color:var(--color-text-secondary);">Tutorías de formación básica para disolver la brecha cognitiva de internet.</p>
+              </div>
+              <div class="glass-card col-web-card" style="padding:10px; border-left-color:var(--color-accent-emerald);">
+                <h4 style="font-size:0.9rem; margin-bottom:2px;">Alianza con Estudiantes</h4>
+                <p style="font-size:0.75rem; color:var(--color-text-secondary);">Hosting y recursos gratuitos para pruebas de prototipos del Joan Coromines.</p>
+              </div>
+            </div>
+          </div>
+
+          <!-- Columna Derecha: TFG -->
+          <div class="slide-col-tfg">
+            <span class="col-header-badge badge-tfg">🎓 Constitución Legal de la S.L.</span>
+            
+            <div class="legal-steps-list">
+              <div class="legal-step-item">
+                <span class="legal-step-num">1</span>
+                <div class="legal-step-text">
+                  <h4>Estatutos y Registro Mercantil Central</h4>
+                  <p>Certificación del nombre de la sociedad mercantil.</p>
+                </div>
+              </div>
+              <div class="legal-step-item">
+                <span class="legal-step-num">2</span>
+                <div class="legal-step-text">
+                  <h4>Notaría e Inscripción Provincial</h4>
+                  <p>Elevación a escritura pública ante Notario y registro en Castellón.</p>
+                </div>
+              </div>
+              <div class="legal-step-item">
+                <span class="legal-step-num">3</span>
+                <div class="legal-step-text">
+                  <h4>Hacienda (AEAT)</h4>
+                  <p>Solicitud de NIF provisional y alta de actividad IAE.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- DIAPOSITIVA 10: CONCLUSIÓN -->
+    <section class="slide-section" id="slide-10" aria-labelledby="slide-10-title">
+      <div class="slide-container">
+        <div></div> <!-- Espacio superior -->
+        <div class="split-slide-grid">
+          
+          <!-- Columna Izquierda: Web/Comercial -->
+          <div class="slide-col-web">
+            <span class="col-header-badge badge-web">💻 Mensaje Final & Contacto</span>
+            
+            <h2 class="closing-brand" style="font-size:3.2rem; margin-bottom:10px;">IQ STACK</h2>
+            <div class="closing-quote-box" style="font-size:1.4rem; line-height:1.35; margin: 10px 0;">
+              "La nube que necesitas,<br>la huella que queremos <span>evitar</span>."
+            </div>
+            
+            <div class="closing-details" style="flex-direction:column; gap:6px; font-size:0.8rem; align-items:flex-start;">
+              <div class="closing-item"><span>🌐</span> <span>www.iqstack.es</span></div>
+              <div class="closing-item"><span>✉️</span> <span>contacto@iqstack.es</span></div>
+              <div class="closing-item"><span>📍</span> <span>Benicarló, Castellón</span></div>
+            </div>
+          </div>
+
+          <!-- Columna Derecha: TFG -->
+          <div class="slide-col-tfg">
+            <span class="col-header-badge badge-tfg">🎓 Conclusiones de Viabilidad</span>
+            
+            <div class="tfg-details-container">
+              <div class="glass-card col-tfg-card" style="padding:10px; border-left-color:var(--color-accent-amber);">
+                <h4 style="font-size:0.85rem; color:var(--color-text-primary); margin-bottom:2px;">1. Viabilidad Técnica Solar</h4>
+                <p style="font-size:0.75rem; color:var(--color-text-secondary);">Demostrada por el consumo óptimo del hardware reciclado Dell/HP bajo Linux.</p>
+              </div>
+              <div class="glass-card col-tfg-card" style="padding:10px; border-left-color:var(--color-accent-amber);">
+                <h4 style="font-size:0.85rem; color:var(--color-text-primary); margin-bottom:2px;">2. Viabilidad Económica Lean</h4>
+                <p style="font-size:0.75rem; color:var(--color-text-secondary);">Estructura bootstrapping flexible sin apalancamientos bancarios de riesgo.</p>
+              </div>
+              <div class="glass-card col-tfg-card" style="padding:10px; border-left-color:var(--color-accent-amber);">
+                <h4 style="font-size:0.85rem; color:var(--color-text-primary); margin-bottom:2px;">3. Viabilidad Social Directa</h4>
+                <p style="font-size:0.75rem; color:var(--color-text-secondary);">Mercado validado de PYMEs dispuestas a pagar por un soporte humano real.</p>
+              </div>
+            </div>
+          </div>
+
+        </div>
+        <div></div> <!-- Espacio inferior -->
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Panel Desplegable: Notas del Presentador -->
+  <aside class="speaker-notes-drawer" id="speaker-notes-drawer">
+    <button class="speaker-notes-toggle" id="speaker-notes-toggle-btn" onclick="document.getElementById('speaker-notes-drawer').classList.toggle('open')" aria-expanded="false" aria-controls="speaker-notes-content">
+      Notas del Presentador
+    </button>
+    <div class="speaker-notes-content-box">
+      <h4 class="speaker-notes-title">Guía de Exposición Oral (Speech)</h4>
+      <p id="speaker-notes-content">Cargando notas...</p>
+    </div>
+  </aside>
+
+  <!-- Botones de Navegación Fijos -->
+  <div class="presentation-controls">
+    <button class="control-btn" id="btn-prev" aria-label="Diapositiva anterior">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+        <line x1="19" y1="12" x2="5" y2="12"></line>
+        <polyline points="12 19 5 12 12 5"></polyline>
+      </svg>
+    </button>
+    <button class="control-btn" id="btn-next" aria-label="Siguiente diapositiva">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+        <line x1="5" y1="12" x2="19" y2="12"></line>
+        <polyline points="12 5 19 12 12 19"></polyline>
+      </svg>
+    </button>
+  </div>
+
+  <!-- Zoom Diagram Modal -->
+  <div class="diagram-modal" id="diagram-modal" onclick="this.classList.remove('open')" title="Hacer clic para cerrar">
+    <img src="INFO/redproyecto_Andrei_Hugo_Marco_Unai.drawio.png" alt="Topología de Red IQSTACK ampliada">
+  </div>
+
+  <!-- Scripts Cargados de Manera Ordenada (CORS-Safe) -->
+  <script src="js/data.js"></script>
+  <script src="js/charts.js"></script>
+  <script src="js/animations.js"></script>
+  <script src="js/slides.js"></script>
+  <script>
+    // Inicializar todos los componentes cuando el DOM esté listo
+    document.addEventListener("DOMContentLoaded", function() {
+      // 1. Inicializar Diapositivas
+      IQSTACK_SLIDES.init();
+      
+      // 2. Inicializar Partículas de Fondo
+      IQSTACK_ANIMATIONS.initParticles('particle-canvas');
+      
+      // 3. Inicializar Servidor 3D (Cubo)
+      IQSTACK_ANIMATIONS.init3DServer('server-cube');
+    });
+  </script>
+</body>
+</html>
